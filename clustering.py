@@ -14,6 +14,24 @@ def feature_to_radius(feature: float):
     # has > 0 value.
     return max(np.log(feature), 1)
 
+def two_nearest_circle_point_centroid(
+    x: np.ndarray, # Length 2
+    y: np.ndarray, # Length 2
+    radius_x: float,
+    radius_y: float
+):
+    """Calculates the centroid of the two points:
+    1) The nearest point in the disc (x, radius_x) to y,
+    2) The nearest point in the disc (y, radius_y) to x.
+    """
+    center_center_distance = np.sqrt(
+        (x[0]-y[0])**2 + (x[1]-y[1])**2
+    )
+    t = radius_x - radius_y + center_center_distance
+    t /= 2.0 * center_center_distance
+    centroid = x + t*y
+    return centroid
+
 def n_centroid(df: pd.DataFrame, n: int):
     """Generates n centroids based on n splits of a uniformly
     shuffled DataFrame."""
@@ -29,5 +47,4 @@ def n_centroid(df: pd.DataFrame, n: int):
         centroids.append(centroid)
     
     return np.array(centroids)
-    
     

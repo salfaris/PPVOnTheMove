@@ -1,7 +1,17 @@
 import pytest
 import numpy as np
 import pandas as pd
-from clustering import feature_to_radius, n_centroid
+from clustering import (
+    feature_to_radius, 
+    n_centroid, 
+    two_nearest_circle_point_centroid
+)
+
+@pytest.mark.parametrize("feature", [
+    0.01, 0.1, 0.5, 1, 2021,
+])
+def test_greater_equal_one(feature):
+    assert feature_to_radius(feature) > 0
 
 even_len_df = pd.DataFrame({
     'latitude': np.arange(1, 11),
@@ -36,9 +46,12 @@ def test_generate_centroids_less_than_equal_df(df, n):
     # The extreme case is where we do exactly len(df) splits of df
     # in which case len(n_centroid(df, n)) == len(df).
     assert len(n_centroid(df, n)) <= len(df)
-
-@pytest.mark.parametrize("feature", [
-    0.01, 0.1, 0.5, 1, 2021,
-])
-def test_greater_equal_one(feature):
-    assert feature_to_radius(feature) > 0
+    
+def two_nearest_circle_point_centroid():
+    x = np.array([0, 0], dtype=np.float64)
+    y = np.array([4, -4], dtype=np.float64)
+    radius_x = 3.0
+    radius_y = 5.0
+    
+    assert (two_nearest_circle_point_centroid(
+        x, y, radius_x, radius_y) == np.array([1.29289322 -1.29289322]))
