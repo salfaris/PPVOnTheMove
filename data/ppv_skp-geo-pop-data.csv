@@ -39,7 +39,7 @@
 "Selangor","Klang","Dewan Kelab Kilat Pangsapuri TNB Kapar",3.1279446,101.3753772,1648,0.015
 "Selangor","Klang","Dewan LPK, Kelab Sukan Dan Rekreasi Pelabuhan Klang",2.99854,101.3938099,1648,0.015
 "Selangor","Klang","Dewan Persatuan Hokkien, Klang",3.0526947,101.4617294,1648,0.015
-"Selangor","Klang","Dewan Persatuan Soka Gakkai",33.40494015,-96.24439765,1648,0.015
+"Selangor","Klang","Dewan Persatuan Soka Gakkai",3.00666478069599,101.44615823972,1648,0.015
 "Selangor","Klang","Dewan Sukan Pandamaran",3.01484485,101.414699,1648,0.015
 "Selangor","Klang","Hospital Tengku Ampuan Rahimah",3.0205787,101.4398648,1648,0.015
 "Selangor","Klang","Hotel Premier, Klang",3.0071772,101.4413166,1648,0.015
@@ -62,7 +62,7 @@
 "Selangor","Kuala Langat","Klinik Kesihatan Tanjung Sepat",2.665595,101.5512682,321,0.017
 "Selangor","Kuala Langat","Klinik Kesihatan Telok Panglima Garang",2.9049166,101.4675504,321,0.017
 "Selangor","Kuala Langat","Kompleks Sukan Majlis Perbadanan Kuala Langat",2.8024798,101.4968754,321,0.017
-"Selangor","Kuala Langat","MAHSA University",21.8611352,18.09159665,321,0.017
+"Selangor","Kuala Langat","MAHSA University",2.95965937383906,101.576472255047,321,0.017
 "W.P. Kuala Lumpur","Kuala Lumpur","Axiata Arena Bukit Jalil",3.0538145,101.6934339,7802,0.008
 "W.P. Kuala Lumpur","Kuala Lumpur","CIDB Convention Centre",3.1251222,101.7171147,7802,0.008
 "W.P. Kuala Lumpur","Kuala Lumpur","Hospital Kuala Lumpur",3.14541025,101.70316355,7802,0.008
@@ -79,7 +79,7 @@
 "W.P. Kuala Lumpur","Kuala Lumpur","Universiti Malaya (UM)",3.1209046,101.6538414,7802,0.008
 "W.P. Kuala Lumpur","Kuala Lumpur","World Trade Centre KL (WTCKL)",3.1687333,101.6915633,7802,0.008
 "Selangor","Kuala Selangor","Hospital Tanjung Karang",3.4045617,101.20398145,215,0.017
-"Selangor","Kuala Selangor","Institut Pengurusan Peladang (IPP)",4.8735362,100.51489335,215,0.017
+"Selangor","Kuala Selangor","Institut Pengurusan Peladang (IPP)",3.41909937997989,101.166827682029,215,0.017
 "Selangor","Kuala Selangor","Klinik Kesihatan Jeram",3.302878,101.2942386,215,0.017
 "Selangor","Kuala Selangor","Klinik Kesihatan Kuala Selangor",3.337005,101.2499241,215,0.017
 "Selangor","Kuala Selangor","Klinik Kesihatan Tanjong Karang",3.421166,101.1737351,215,0.017
@@ -93,7 +93,7 @@
 "Selangor","Petaling","Dewan MPSJ, Puchong Indah",3.0125816,101.6058011,4498,0.015
 "Selangor","Petaling","Dewan Sivik MBPJ",3.0970086,101.6453753,4498,0.015
 "Selangor","Petaling","Hospital Pengajar UPM",2.980436,101.7181633,4498,0.015
-"Selangor","Petaling","Hospital Shah Alam",21.9408267,13.8436509,4498,0.015
+"Selangor","Petaling","Hospital Shah Alam",3.07137325284991,101.491240582028,4498,0.015
 "Selangor","Petaling","Ideal Convention Centre (IDCC)",3.1082594,101.56252245,4498,0.015
 "Selangor","Petaling","Klinik Kesihatan Kelana Jaya",3.0990376,101.6006338,4498,0.015
 "Selangor","Petaling","Klinik Kesihatan Kota Damansara",3.17649585,101.5756644,4498,0.015
@@ -116,7 +116,7 @@
 "Selangor","Sabak Bernam","Klinik Kesihatan Simpang Lima",3.6263328,101.0516211,128,0.017
 "Selangor","Sabak Bernam","Klinik Kesihatan Sungai Besar",3.6511134,101.0203075,128,0.017
 "Selangor","Sepang","Dewan Serbaguna Bandar Baru Salak Tinggi",2.8097745,101.7384872,474,0.017
-"Selangor","Sepang","Hospital Serdang",22.6563215,15.31413305,474,0.017
+"Selangor","Sepang","Hospital Serdang",2.97629462711043,101.720214268537,474,0.017
 "Selangor","Sepang","Klinik Kesihatan Dengkil",2.859256,101.681787,474,0.017
 "Selangor","Sepang","Klinik Kesihatan Salak",2.7895199,101.7491886,474,0.017
 "Selangor","Sepang","Klinik Kesihatan Sepang",2.75192115,101.7159776,474,0.017
@@ -125,7 +125,7 @@
 "Selangor","Sepang","Main Terminal Building KLIA",2.7525943,101.7039067,474,0.017
 "Selangor","Sepang","Movenpick Hotel & Convention Centre KLIA",2.7892788,101.6765803,474,0.017
 "Selangor","Sepang","Multimedia University (MMU), Cyberjaya, Sepang",2.9277715,101.6419004,474,0.017
-"Selangor","Sepang","Orion Clinic",45.59802135,-127.2696389,474,0.017
+"Selangor","Sepang","Orion Clinic",2.92148122551633,101.636141697374,474,0.017
 "Selangor","Sepang","Poliklinik Medi Ihsan",2.8191638,101.68967,474,0.017
 "W.P. Kuala Lumpur","W.P. Putrajaya","IOI City Mall Putrajaya",2.9697004,101.7131489,2063,0.017
 "W.P. Putrajaya","W.P. Putrajaya","Dewan Sri Seroja",2.9441402,101.7242602,2063,0.017
