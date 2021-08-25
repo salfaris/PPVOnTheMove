@@ -1,134 +1,134 @@
-"","state","district","ppv_name","latitude","longitude","pop_density","pop_growth"
-"1","Selangor","Gombak","Dewan Alwy, Jabatan Perhutanan Semenanjung Malaysia",3.2360267,101.6296346,1270,0.017
-"2","Selangor","Gombak","Hospital Orang Asli Gombak",3.2919717,101.7309713,1270,0.017
-"3","Selangor","Gombak","Hospital Selayang",3.2426173,101.6464691,1270,0.017
-"4","Selangor","Gombak","Hospital Sungai Buluh",3.2196265,101.5831991,1270,0.017
-"5","Selangor","Gombak","Klinik Kesihatan AU2",3.1749588,101.7487479,1270,0.017
-"6","Selangor","Gombak","Klinik Kesihatan Batu 8",3.24627404167925,101.722601425732,1270,0.017
-"7","Selangor","Gombak","Klinik Kesihatan Batu Arang",3.3201676,101.4736959,1270,0.017
-"8","Selangor","Gombak","Klinik Kesihatan Gombak Setia",3.2178664,101.7142398,1270,0.017
-"9","Selangor","Gombak","Klinik Kesihatan Kuang",3.2594189,101.55195,1270,0.017
-"10","Selangor","Gombak","Klinik Kesihatan Rawang",3.3147693,101.5958835,1270,0.017
-"11","Selangor","Gombak","Klinik Kesihatan Selayang Baru",3.245237,101.6738341,1270,0.017
-"12","Selangor","Gombak","Klinik Kesihatan Sungai Buloh",3.2192844,101.5779949,1270,0.017
-"13","Selangor","Gombak","Klinik Kesihatan Taman Ehsan",3.224222,101.6229275,1270,0.017
-"14","Selangor","Gombak","Le Garden Pavilion, Gamuda Gardens, Rawang, Gombak",3.28321805,101.53893315,1270,0.017
-"15","Selangor","Gombak","Pusat Pakar Perubatan UiTM (Sungai Buloh)",3.22103425,101.59345045,1270,0.017
-"16","Selangor","Gombak","Setia Eco Templer, Rawang",3.30017675,101.64358485,1270,0.017
-"17","Selangor","Gombak","UNIKL British Malaysia Institute (BMI), Sg. Pusu",3.2511277,101.7279981,1270,0.017
-"18","Selangor","Hulu Langat","Galaxy Mall, Ampang",3.1471156,101.7558731,1671,0.016
-"19","Selangor","Hulu Langat","360 Club Eco Hill",2.9256596,101.839679,1671,0.016
-"20","Selangor","Hulu Langat","Bangi Avenue Convention Center [BACC]",2.9006741,101.7912444,1671,0.016
-"21","Selangor","Hulu Langat","Bangi Convention Centre (BCC), Seksyen 14 BBB",2.9255946,101.7613725,1671,0.016
-"22","Selangor","Hulu Langat","Bangi Golf Resort",2.957294,101.76602495,1671,0.016
-"23","Selangor","Hulu Langat","Dewan Orang Ramai Kampung Ampang Indah",3.16547355,101.77179625,1671,0.016
-"24","Selangor","Hulu Langat","Dewan Orang Ramai Taman Bukit Mewah Kajang",2.9802032,101.8035773,1671,0.016
-"25","Selangor","Hulu Langat","Hospital Ampang",3.1282107,101.7640303,1671,0.016
-"26","Selangor","Hulu Langat","Hospital Kajang",2.99331335,101.79597385,1671,0.016
-"27","Selangor","Hulu Langat","Klinik Kesihatan Bandar Seri Putra",2.8878947,101.7922127,1671,0.016
-"28","Selangor","Hulu Langat","Klinik Kesihatan Bandar Tun Hussein Onn",3.0423435,101.76191245,1671,0.016
-"29","Selangor","Hulu Langat","Klinik Kesihatan Bangi",2.91870075,101.77296065,1671,0.016
-"30","Selangor","Hulu Langat","Mewah Club Kajang",2.98821055,101.79632605,1671,0.016
-"31","Selangor","Hulu Langat","Universiti Kebangsaan Malaysia (UKM)",2.930255,101.7774194,1671,0.016
-"32","Selangor","Hulu Selangor","Bukit Beruntung Golf Resort",3.4373376,101.56470595,138,0.017
-"33","Selangor","Hulu Selangor","Dewan Komuniti Serendah",3.3646383,101.6031112,138,0.017
-"34","Selangor","Hulu Selangor","Dewan Semai Bakti Felda Soeharto",3.6757129,101.393808,138,0.017
-"35","Selangor","Hulu Selangor","Hospital Kuala Kubu Bharu",3.5642346,101.6530737,138,0.017
-"36","Selangor","Hulu Selangor","Klinik Kesihatan Serendah",3.3623333,101.6027488,138,0.017
-"37","Selangor","Hulu Selangor","Klinik Kesihatan Ulu Yam Bharu",3.434854,101.656462,138,0.017
-"38","Selangor","Klang","Dewan Kelab Kilat Pangsapuri TNB Kapar",3.1279446,101.3753772,1648,0.015
-"39","Selangor","Klang","Dewan LPK, Kelab Sukan Dan Rekreasi Pelabuhan Klang",2.99854,101.3938099,1648,0.015
-"40","Selangor","Klang","Dewan Persatuan Hokkien, Klang",3.0526947,101.4617294,1648,0.015
-"41","Selangor","Klang","Dewan Persatuan Soka Gakkai",33.40494015,-96.24439765,1648,0.015
-"42","Selangor","Klang","Dewan Sukan Pandamaran",3.01484485,101.414699,1648,0.015
-"43","Selangor","Klang","Hospital Tengku Ampuan Rahimah",3.0205787,101.4398648,1648,0.015
-"44","Selangor","Klang","Hotel Premier, Klang",3.0071772,101.4413166,1648,0.015
-"45","Selangor","Klang","Hotel Wyndham Acmar",3.0590226,101.4718593,1648,0.015
-"46","Selangor","Klang","Klinik Kesihatan Bandar Botanik",2.9894938,101.4464784,1648,0.015
-"47","Selangor","Klang","Klinik Kesihatan Bukit Kuda",3.0506643,101.4582095,1648,0.015
-"48","Selangor","Klang","Klinik Kesihatan Bukit Naga",3.003293,101.5053131,1648,0.015
-"49","Selangor","Klang","Klinik Kesihatan Klang (Anika)",3.0372006,101.4470019,1648,0.015
-"50","Selangor","Klang","Klinik Kesihatan Meru",3.1363776,101.4409284,1648,0.015
-"51","Selangor","Klang","Klinik Kesihatan Pandamaran",3.01408,101.4122498,1648,0.015
-"52","Selangor","Klang","Klinik Kesihatan Pelabuhan Klang",3.0013383,101.3943435,1648,0.015
-"53","Selangor","Klang","Klinik Kesihatan Pulau Indah",2.937951,101.3246989,1648,0.015
-"54","Selangor","Klang","Klinik Kesihatan Rantau Panjang",3.0689456,101.4114814,1648,0.015
-"55","Selangor","Klang","Klinik Kesihatan Sg Bertik",3.0490245,101.4276434,1648,0.015
-"56","Selangor","Kuala Langat","Hospital Banting",2.8028617,101.4938279,321,0.017
-"57","Selangor","Kuala Langat","Klinik Kesihatan Bukit Changgang",2.8287189,101.6185063,321,0.017
-"58","Selangor","Kuala Langat","Klinik Kesihatan Jenjarom",2.8784422,101.5004496,321,0.017
-"59","Selangor","Kuala Langat","Klinik Kesihatan Kampung Bandar",2.8514869,101.444301,321,0.017
-"60","Selangor","Kuala Langat","Klinik Kesihatan Sijangkang",2.9414953,101.4562351,321,0.017
-"61","Selangor","Kuala Langat","Klinik Kesihatan Tanjung Sepat",2.665595,101.5512682,321,0.017
-"62","Selangor","Kuala Langat","Klinik Kesihatan Telok Panglima Garang",2.9049166,101.4675504,321,0.017
-"63","Selangor","Kuala Langat","Kompleks Sukan Majlis Perbadanan Kuala Langat",2.8024798,101.4968754,321,0.017
-"64","Selangor","Kuala Langat","MAHSA University",21.8611352,18.09159665,321,0.017
-"65","W.P. Kuala Lumpur","Kuala Lumpur","Axiata Arena Bukit Jalil",3.0538145,101.6934339,7802,0.008
-"66","W.P. Kuala Lumpur","Kuala Lumpur","CIDB Convention Centre",3.1251222,101.7171147,7802,0.008
-"67","W.P. Kuala Lumpur","Kuala Lumpur","Hospital Kuala Lumpur",3.14541025,101.70316355,7802,0.008
-"68","W.P. Kuala Lumpur","Kuala Lumpur","Institut Jantung Negara",3.1699957,101.7090145,7802,0.008
-"69","W.P. Kuala Lumpur","Kuala Lumpur","Kuala Lumpur Convention Centre (KLCC)",3.1532671,101.7130429,7802,0.008
-"70","W.P. Kuala Lumpur","Kuala Lumpur","Malaysia International Trade and Exhibition Centre (MITEC)",3.1782359,101.6688772,7802,0.008
-"71","W.P. Kuala Lumpur","Kuala Lumpur","Malaysian Association For The Blind (MAB) Complex",3.1321407,101.6910403,7802,0.008
-"72","W.P. Kuala Lumpur","Kuala Lumpur","Masjid Wilayah",3.1720495,101.6704473,7802,0.008
-"73","W.P. Kuala Lumpur","Kuala Lumpur","National Stadium Bukit Jalil",3.0546349,101.69134,7802,0.008
-"74","W.P. Kuala Lumpur","Kuala Lumpur","Pusat Perubatan Universiti Kebangsaan Malaysia – Pandu Lalu",3.099267,101.7254018,7802,0.008
-"75","W.P. Kuala Lumpur","Kuala Lumpur","Pusat Perubatan Universiti Malaya (PPUM)",3.1137086,101.6528322,7802,0.008
-"76","W.P. Kuala Lumpur","Kuala Lumpur","Texas Instruments Malaysia Sdn Bhd",3.1703205,101.7505223,7802,0.008
-"77","W.P. Kuala Lumpur","Kuala Lumpur","UCSI University",3.0800732,101.7335007,7802,0.008
-"78","W.P. Kuala Lumpur","Kuala Lumpur","Universiti Malaya (UM)",3.1209046,101.6538414,7802,0.008
-"79","W.P. Kuala Lumpur","Kuala Lumpur","World Trade Centre KL (WTCKL)",3.1687333,101.6915633,7802,0.008
-"80","Selangor","Kuala Selangor","Hospital Tanjung Karang",3.4045617,101.20398145,215,0.017
-"81","Selangor","Kuala Selangor","Institut Pengurusan Peladang (IPP)",4.8735362,100.51489335,215,0.017
-"82","Selangor","Kuala Selangor","Klinik Kesihatan Jeram",3.302878,101.2942386,215,0.017
-"83","Selangor","Kuala Selangor","Klinik Kesihatan Kuala Selangor",3.337005,101.2499241,215,0.017
-"84","Selangor","Kuala Selangor","Klinik Kesihatan Tanjong Karang",3.421166,101.1737351,215,0.017
-"85","Selangor","Kuala Selangor","Stadium Tertutup Kuala Selangor",3.3189475,101.2542419,215,0.017
-"86","Selangor","Kuala Selangor","UITM Puncak Alam",3.2011674,101.447997,215,0.017
-"87","Selangor","Petaling","Dewan Bankuet Persada PLUS, Subang",3.1044625,101.5893517,4498,0.015
-"88","Selangor","Petaling","Dewan Canselor MSU, Seksyen 13, Shah Alam",3.0715118,101.525875,4498,0.015
-"89","Selangor","Petaling","Dewan Kemuning Utama, Seksyen 32, Shah Alam Selatan",3.0048723,101.5197276,4498,0.015
-"90","Selangor","Petaling","Dewan Kenanga, Seksyen 28, Shah Alam Tengah",3.0053799,101.5603621,4498,0.015
-"91","Selangor","Petaling","Dewan Meranti 2, Seksyen U20 Bandar Baru Sg. Buloh, Shah Alam Utara",3.21414925,101.56359645,4498,0.015
-"92","Selangor","Petaling","Dewan MPSJ, Puchong Indah",3.0125816,101.6058011,4498,0.015
-"93","Selangor","Petaling","Dewan Sivik MBPJ",3.0970086,101.6453753,4498,0.015
-"94","Selangor","Petaling","Hospital Pengajar UPM",2.980436,101.7181633,4498,0.015
-"95","Selangor","Petaling","Hospital Shah Alam",21.9408267,13.8436509,4498,0.015
-"96","Selangor","Petaling","Ideal Convention Centre (IDCC)",3.1082594,101.56252245,4498,0.015
-"97","Selangor","Petaling","Klinik Kesihatan Kelana Jaya",3.0990376,101.6006338,4498,0.015
-"98","Selangor","Petaling","Klinik Kesihatan Kota Damansara",3.17649585,101.5756644,4498,0.015
-"99","Selangor","Petaling","Klinik Kesihatan Puchong Bt 14",2.9940761,101.619718,4498,0.015
-"100","Selangor","Petaling","Klinik Kesihatan Seksyen 19",3.0500633,101.5331287,4498,0.015
-"101","Selangor","Petaling","Klinik Kesihatan Seksyen 7 Shah Alam",3.0724525,101.4909343,4498,0.015
-"102","Selangor","Petaling","Klinik Kesihatan Seri Kembangan",3.027736,101.7114922,4498,0.015
-"103","Selangor","Petaling","Klinik Kesihatan Taman Medan",3.079249,101.6344939,4498,0.015
-"104","Selangor","Petaling","Kompleks Sukan Negara Shah Alam Panasonic",3.0568,101.5471901,4498,0.015
-"105","Selangor","Petaling","Menara Sime Darby Plantation (PPV OKU)",3.1120409231146,101.577680627875,4498,0.015
-"106","Selangor","Petaling","Setia City Convention Centre (SCCC)",3.109878,101.4629523,4498,0.015
-"107","Selangor","Petaling","Space U8, Bukit Jelutong",3.1118583,101.552338,4498,0.015
-"108","Selangor","Petaling","Sunway Pyramid Convention Centre",3.0721932,101.6071378,4498,0.015
-"109","Selangor","Petaling","Universiti Teknologi MARA Shah Alam",3.10005475,101.50540385,4498,0.015
-"110","Selangor","Sabak Bernam","Dewan Sekinchan",3.56116665,101.0959952,128,0.017
-"111","Selangor","Sabak Bernam","Dewan Seri Bernam Sg Besar",3.6768305,100.9913304,128,0.017
-"112","Selangor","Sabak Bernam","Dewan Tun Razak, Sabak Bernam",3.768562,100.9836785,128,0.017
-"113","Selangor","Sabak Bernam","Hospital Tengku Ampuan Jemaah",3.7591076,100.9893055,128,0.017
-"114","Selangor","Sabak Bernam","Klinik Kesihatan Sekinchan",3.5098268,101.1026535,128,0.017
-"115","Selangor","Sabak Bernam","Klinik Kesihatan Simpang Lima",3.6263328,101.0516211,128,0.017
-"116","Selangor","Sabak Bernam","Klinik Kesihatan Sungai Besar",3.6511134,101.0203075,128,0.017
-"117","Selangor","Sepang","Dewan Serbaguna Bandar Baru Salak Tinggi",2.8097745,101.7384872,474,0.017
-"118","Selangor","Sepang","Hospital Serdang",22.6563215,15.31413305,474,0.017
-"119","Selangor","Sepang","Klinik Kesihatan Dengkil",2.859256,101.681787,474,0.017
-"120","Selangor","Sepang","Klinik Kesihatan Salak",2.7895199,101.7491886,474,0.017
-"121","Selangor","Sepang","Klinik Kesihatan Sepang",2.75192115,101.7159776,474,0.017
-"122","Selangor","Sepang","Klinik Kesihatan Sungai Pelek",2.6446353,101.7185045,474,0.017
-"123","Selangor","Sepang","Klinik Masya",2.78449,101.75103,474,0.017
-"124","Selangor","Sepang","Main Terminal Building KLIA",2.7525943,101.7039067,474,0.017
-"125","Selangor","Sepang","Movenpick Hotel & Convention Centre KLIA",2.7892788,101.6765803,474,0.017
-"126","Selangor","Sepang","Multimedia University (MMU), Cyberjaya, Sepang",2.9277715,101.6419004,474,0.017
-"127","Selangor","Sepang","Orion Clinic",45.59802135,-127.2696389,474,0.017
-"128","Selangor","Sepang","Poliklinik Medi Ihsan",2.8191638,101.68967,474,0.017
-"129","W.P. Kuala Lumpur","W.P. Putrajaya","IOI City Mall Putrajaya",2.9697004,101.7131489,2063,0.017
-"130","W.P. Putrajaya","W.P. Putrajaya","Dewan Sri Seroja",2.9441402,101.7242602,2063,0.017
-"131","W.P. Putrajaya","W.P. Putrajaya","Hospital Putrajaya",2.9290529,101.6741956,2063,0.017
-"132","W.P. Putrajaya","W.P. Putrajaya","Institut Kanser Negara",2.9321929,101.6888522,2063,0.017
-"133","W.P. Putrajaya","W.P. Putrajaya","International SOS, Putrajaya International Convention Centre (PICC)",2.8944444,101.6772222,2063,0.017
+"state","district","ppv_name","latitude","longitude","pop_density","pop_growth"
+"Selangor","Gombak","Dewan Alwy, Jabatan Perhutanan Semenanjung Malaysia",3.2360267,101.6296346,1270,0.017
+"Selangor","Gombak","Hospital Orang Asli Gombak",3.2919717,101.7309713,1270,0.017
+"Selangor","Gombak","Hospital Selayang",3.2426173,101.6464691,1270,0.017
+"Selangor","Gombak","Hospital Sungai Buluh",3.2196265,101.5831991,1270,0.017
+"Selangor","Gombak","Klinik Kesihatan AU2",3.1749588,101.7487479,1270,0.017
+"Selangor","Gombak","Klinik Kesihatan Batu 8",3.24627404167925,101.722601425732,1270,0.017
+"Selangor","Gombak","Klinik Kesihatan Batu Arang",3.3201676,101.4736959,1270,0.017
+"Selangor","Gombak","Klinik Kesihatan Gombak Setia",3.2178664,101.7142398,1270,0.017
+"Selangor","Gombak","Klinik Kesihatan Kuang",3.2594189,101.55195,1270,0.017
+Selangor","Gombak","Klinik Kesihatan Rawang",3.3147693,101.5958835,1270,0.017
+Selangor","Gombak","Klinik Kesihatan Selayang Baru",3.245237,101.6738341,1270,0.017
+Selangor","Gombak","Klinik Kesihatan Sungai Buloh",3.2192844,101.5779949,1270,0.017
+Selangor","Gombak","Klinik Kesihatan Taman Ehsan",3.224222,101.6229275,1270,0.017
+Selangor","Gombak","Le Garden Pavilion, Gamuda Gardens, Rawang, Gombak",3.28321805,101.53893315,1270,0.017
+Selangor","Gombak","Pusat Pakar Perubatan UiTM (Sungai Buloh)",3.22103425,101.59345045,1270,0.017
+Selangor","Gombak","Setia Eco Templer, Rawang",3.30017675,101.64358485,1270,0.017
+Selangor","Gombak","UNIKL British Malaysia Institute (BMI), Sg. Pusu",3.2511277,101.7279981,1270,0.017
+Selangor","Hulu Langat","Galaxy Mall, Ampang",3.1471156,101.7558731,1671,0.016
+Selangor","Hulu Langat","360 Club Eco Hill",2.9256596,101.839679,1671,0.016
+Selangor","Hulu Langat","Bangi Avenue Convention Center [BACC]",2.9006741,101.7912444,1671,0.016
+Selangor","Hulu Langat","Bangi Convention Centre (BCC), Seksyen 14 BBB",2.9255946,101.7613725,1671,0.016
+Selangor","Hulu Langat","Bangi Golf Resort",2.957294,101.76602495,1671,0.016
+Selangor","Hulu Langat","Dewan Orang Ramai Kampung Ampang Indah",3.16547355,101.77179625,1671,0.016
+Selangor","Hulu Langat","Dewan Orang Ramai Taman Bukit Mewah Kajang",2.9802032,101.8035773,1671,0.016
+Selangor","Hulu Langat","Hospital Ampang",3.1282107,101.7640303,1671,0.016
+Selangor","Hulu Langat","Hospital Kajang",2.99331335,101.79597385,1671,0.016
+Selangor","Hulu Langat","Klinik Kesihatan Bandar Seri Putra",2.8878947,101.7922127,1671,0.016
+Selangor","Hulu Langat","Klinik Kesihatan Bandar Tun Hussein Onn",3.0423435,101.76191245,1671,0.016
+Selangor","Hulu Langat","Klinik Kesihatan Bangi",2.91870075,101.77296065,1671,0.016
+Selangor","Hulu Langat","Mewah Club Kajang",2.98821055,101.79632605,1671,0.016
+Selangor","Hulu Langat","Universiti Kebangsaan Malaysia (UKM)",2.930255,101.7774194,1671,0.016
+Selangor","Hulu Selangor","Bukit Beruntung Golf Resort",3.4373376,101.56470595,138,0.017
+Selangor","Hulu Selangor","Dewan Komuniti Serendah",3.3646383,101.6031112,138,0.017
+Selangor","Hulu Selangor","Dewan Semai Bakti Felda Soeharto",3.6757129,101.393808,138,0.017
+Selangor","Hulu Selangor","Hospital Kuala Kubu Bharu",3.5642346,101.6530737,138,0.017
+Selangor","Hulu Selangor","Klinik Kesihatan Serendah",3.3623333,101.6027488,138,0.017
+Selangor","Hulu Selangor","Klinik Kesihatan Ulu Yam Bharu",3.434854,101.656462,138,0.017
+Selangor","Klang","Dewan Kelab Kilat Pangsapuri TNB Kapar",3.1279446,101.3753772,1648,0.015
+Selangor","Klang","Dewan LPK, Kelab Sukan Dan Rekreasi Pelabuhan Klang",2.99854,101.3938099,1648,0.015
+Selangor","Klang","Dewan Persatuan Hokkien, Klang",3.0526947,101.4617294,1648,0.015
+Selangor","Klang","Dewan Persatuan Soka Gakkai",33.40494015,-96.24439765,1648,0.015
+Selangor","Klang","Dewan Sukan Pandamaran",3.01484485,101.414699,1648,0.015
+Selangor","Klang","Hospital Tengku Ampuan Rahimah",3.0205787,101.4398648,1648,0.015
+Selangor","Klang","Hotel Premier, Klang",3.0071772,101.4413166,1648,0.015
+Selangor","Klang","Hotel Wyndham Acmar",3.0590226,101.4718593,1648,0.015
+Selangor","Klang","Klinik Kesihatan Bandar Botanik",2.9894938,101.4464784,1648,0.015
+Selangor","Klang","Klinik Kesihatan Bukit Kuda",3.0506643,101.4582095,1648,0.015
+Selangor","Klang","Klinik Kesihatan Bukit Naga",3.003293,101.5053131,1648,0.015
+Selangor","Klang","Klinik Kesihatan Klang (Anika)",3.0372006,101.4470019,1648,0.015
+Selangor","Klang","Klinik Kesihatan Meru",3.1363776,101.4409284,1648,0.015
+Selangor","Klang","Klinik Kesihatan Pandamaran",3.01408,101.4122498,1648,0.015
+Selangor","Klang","Klinik Kesihatan Pelabuhan Klang",3.0013383,101.3943435,1648,0.015
+Selangor","Klang","Klinik Kesihatan Pulau Indah",2.937951,101.3246989,1648,0.015
+Selangor","Klang","Klinik Kesihatan Rantau Panjang",3.0689456,101.4114814,1648,0.015
+Selangor","Klang","Klinik Kesihatan Sg Bertik",3.0490245,101.4276434,1648,0.015
+Selangor","Kuala Langat","Hospital Banting",2.8028617,101.4938279,321,0.017
+Selangor","Kuala Langat","Klinik Kesihatan Bukit Changgang",2.8287189,101.6185063,321,0.017
+Selangor","Kuala Langat","Klinik Kesihatan Jenjarom",2.8784422,101.5004496,321,0.017
+Selangor","Kuala Langat","Klinik Kesihatan Kampung Bandar",2.8514869,101.444301,321,0.017
+Selangor","Kuala Langat","Klinik Kesihatan Sijangkang",2.9414953,101.4562351,321,0.017
+Selangor","Kuala Langat","Klinik Kesihatan Tanjung Sepat",2.665595,101.5512682,321,0.017
+Selangor","Kuala Langat","Klinik Kesihatan Telok Panglima Garang",2.9049166,101.4675504,321,0.017
+Selangor","Kuala Langat","Kompleks Sukan Majlis Perbadanan Kuala Langat",2.8024798,101.4968754,321,0.017
+Selangor","Kuala Langat","MAHSA University",21.8611352,18.09159665,321,0.017
+W.P. Kuala Lumpur","Kuala Lumpur","Axiata Arena Bukit Jalil",3.0538145,101.6934339,7802,0.008
+W.P. Kuala Lumpur","Kuala Lumpur","CIDB Convention Centre",3.1251222,101.7171147,7802,0.008
+W.P. Kuala Lumpur","Kuala Lumpur","Hospital Kuala Lumpur",3.14541025,101.70316355,7802,0.008
+W.P. Kuala Lumpur","Kuala Lumpur","Institut Jantung Negara",3.1699957,101.7090145,7802,0.008
+W.P. Kuala Lumpur","Kuala Lumpur","Kuala Lumpur Convention Centre (KLCC)",3.1532671,101.7130429,7802,0.008
+W.P. Kuala Lumpur","Kuala Lumpur","Malaysia International Trade and Exhibition Centre (MITEC)",3.1782359,101.6688772,7802,0.008
+W.P. Kuala Lumpur","Kuala Lumpur","Malaysian Association For The Blind (MAB) Complex",3.1321407,101.6910403,7802,0.008
+W.P. Kuala Lumpur","Kuala Lumpur","Masjid Wilayah",3.1720495,101.6704473,7802,0.008
+W.P. Kuala Lumpur","Kuala Lumpur","National Stadium Bukit Jalil",3.0546349,101.69134,7802,0.008
+W.P. Kuala Lumpur","Kuala Lumpur","Pusat Perubatan Universiti Kebangsaan Malaysia – Pandu Lalu",3.099267,101.7254018,7802,0.008
+W.P. Kuala Lumpur","Kuala Lumpur","Pusat Perubatan Universiti Malaya (PPUM)",3.1137086,101.6528322,7802,0.008
+W.P. Kuala Lumpur","Kuala Lumpur","Texas Instruments Malaysia Sdn Bhd",3.1703205,101.7505223,7802,0.008
+W.P. Kuala Lumpur","Kuala Lumpur","UCSI University",3.0800732,101.7335007,7802,0.008
+W.P. Kuala Lumpur","Kuala Lumpur","Universiti Malaya (UM)",3.1209046,101.6538414,7802,0.008
+W.P. Kuala Lumpur","Kuala Lumpur","World Trade Centre KL (WTCKL)",3.1687333,101.6915633,7802,0.008
+Selangor","Kuala Selangor","Hospital Tanjung Karang",3.4045617,101.20398145,215,0.017
+Selangor","Kuala Selangor","Institut Pengurusan Peladang (IPP)",4.8735362,100.51489335,215,0.017
+Selangor","Kuala Selangor","Klinik Kesihatan Jeram",3.302878,101.2942386,215,0.017
+Selangor","Kuala Selangor","Klinik Kesihatan Kuala Selangor",3.337005,101.2499241,215,0.017
+Selangor","Kuala Selangor","Klinik Kesihatan Tanjong Karang",3.421166,101.1737351,215,0.017
+Selangor","Kuala Selangor","Stadium Tertutup Kuala Selangor",3.3189475,101.2542419,215,0.017
+Selangor","Kuala Selangor","UITM Puncak Alam",3.2011674,101.447997,215,0.017
+Selangor","Petaling","Dewan Bankuet Persada PLUS, Subang",3.1044625,101.5893517,4498,0.015
+Selangor","Petaling","Dewan Canselor MSU, Seksyen 13, Shah Alam",3.0715118,101.525875,4498,0.015
+Selangor","Petaling","Dewan Kemuning Utama, Seksyen 32, Shah Alam Selatan",3.0048723,101.5197276,4498,0.015
+Selangor","Petaling","Dewan Kenanga, Seksyen 28, Shah Alam Tengah",3.0053799,101.5603621,4498,0.015
+Selangor","Petaling","Dewan Meranti 2, Seksyen U20 Bandar Baru Sg. Buloh, Shah Alam Utara",3.21414925,101.56359645,4498,0.015
+Selangor","Petaling","Dewan MPSJ, Puchong Indah",3.0125816,101.6058011,4498,0.015
+Selangor","Petaling","Dewan Sivik MBPJ",3.0970086,101.6453753,4498,0.015
+Selangor","Petaling","Hospital Pengajar UPM",2.980436,101.7181633,4498,0.015
+Selangor","Petaling","Hospital Shah Alam",21.9408267,13.8436509,4498,0.015
+Selangor","Petaling","Ideal Convention Centre (IDCC)",3.1082594,101.56252245,4498,0.015
+Selangor","Petaling","Klinik Kesihatan Kelana Jaya",3.0990376,101.6006338,4498,0.015
+Selangor","Petaling","Klinik Kesihatan Kota Damansara",3.17649585,101.5756644,4498,0.015
+Selangor","Petaling","Klinik Kesihatan Puchong Bt 14",2.9940761,101.619718,4498,0.015
+"Selangor","Petaling","Klinik Kesihatan Seksyen 19",3.0500633,101.5331287,4498,0.015
+"Selangor","Petaling","Klinik Kesihatan Seksyen 7 Shah Alam",3.0724525,101.4909343,4498,0.015
+"Selangor","Petaling","Klinik Kesihatan Seri Kembangan",3.027736,101.7114922,4498,0.015
+"Selangor","Petaling","Klinik Kesihatan Taman Medan",3.079249,101.6344939,4498,0.015
+"Selangor","Petaling","Kompleks Sukan Negara Shah Alam Panasonic",3.0568,101.5471901,4498,0.015
+"Selangor","Petaling","Menara Sime Darby Plantation (PPV OKU)",3.1120409231146,101.577680627875,4498,0.015
+"Selangor","Petaling","Setia City Convention Centre (SCCC)",3.109878,101.4629523,4498,0.015
+"Selangor","Petaling","Space U8, Bukit Jelutong",3.1118583,101.552338,4498,0.015
+"Selangor","Petaling","Sunway Pyramid Convention Centre",3.0721932,101.6071378,4498,0.015
+"Selangor","Petaling","Universiti Teknologi MARA Shah Alam",3.10005475,101.50540385,4498,0.015
+"Selangor","Sabak Bernam","Dewan Sekinchan",3.56116665,101.0959952,128,0.017
+"Selangor","Sabak Bernam","Dewan Seri Bernam Sg Besar",3.6768305,100.9913304,128,0.017
+"Selangor","Sabak Bernam","Dewan Tun Razak, Sabak Bernam",3.768562,100.9836785,128,0.017
+"Selangor","Sabak Bernam","Hospital Tengku Ampuan Jemaah",3.7591076,100.9893055,128,0.017
+"Selangor","Sabak Bernam","Klinik Kesihatan Sekinchan",3.5098268,101.1026535,128,0.017
+"Selangor","Sabak Bernam","Klinik Kesihatan Simpang Lima",3.6263328,101.0516211,128,0.017
+"Selangor","Sabak Bernam","Klinik Kesihatan Sungai Besar",3.6511134,101.0203075,128,0.017
+"Selangor","Sepang","Dewan Serbaguna Bandar Baru Salak Tinggi",2.8097745,101.7384872,474,0.017
+"Selangor","Sepang","Hospital Serdang",22.6563215,15.31413305,474,0.017
+"Selangor","Sepang","Klinik Kesihatan Dengkil",2.859256,101.681787,474,0.017
+"Selangor","Sepang","Klinik Kesihatan Salak",2.7895199,101.7491886,474,0.017
+"Selangor","Sepang","Klinik Kesihatan Sepang",2.75192115,101.7159776,474,0.017
+"Selangor","Sepang","Klinik Kesihatan Sungai Pelek",2.6446353,101.7185045,474,0.017
+"Selangor","Sepang","Klinik Masya",2.78449,101.75103,474,0.017
+"Selangor","Sepang","Main Terminal Building KLIA",2.7525943,101.7039067,474,0.017
+"Selangor","Sepang","Movenpick Hotel & Convention Centre KLIA",2.7892788,101.6765803,474,0.017
+"Selangor","Sepang","Multimedia University (MMU), Cyberjaya, Sepang",2.9277715,101.6419004,474,0.017
+"Selangor","Sepang","Orion Clinic",45.59802135,-127.2696389,474,0.017
+"Selangor","Sepang","Poliklinik Medi Ihsan",2.8191638,101.68967,474,0.017
+"W.P. Kuala Lumpur","W.P. Putrajaya","IOI City Mall Putrajaya",2.9697004,101.7131489,2063,0.017
+"W.P. Putrajaya","W.P. Putrajaya","Dewan Sri Seroja",2.9441402,101.7242602,2063,0.017
+"W.P. Putrajaya","W.P. Putrajaya","Hospital Putrajaya",2.9290529,101.6741956,2063,0.017
+"W.P. Putrajaya","W.P. Putrajaya","Institut Kanser Negara",2.9321929,101.6888522,2063,0.017
+"W.P. Putrajaya","W.P. Putrajaya","International SOS, Putrajaya International Convention Centre (PICC)",2.8944444,101.6772222,2063,0.017
