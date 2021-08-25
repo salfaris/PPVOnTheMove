@@ -1,7 +1,7 @@
 import pytest
 import numpy as np
 import pandas as pd
-from clustering import (
+from unitroid import (
     feature_to_radius, 
     n_centroid, 
     two_nearest_circle_point_centroid
