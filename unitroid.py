@@ -49,4 +49,3 @@ def n_centroid(df: pd.DataFrame, n: int):
         centroids.append(centroid)
     
     return np.array(centroids)
-    
