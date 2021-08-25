@@ -1,0 +1,709 @@
+state,district,ppv_name,latitude,longitude
+Perlis,Perlis,Dewan 2020,6.4148905,100.1949794
+Perlis,Perlis,"Dewan Seri Melati, Perlis",6.5152961,100.2386186
+Perlis,Perlis,"Dewan Warisan, Perlis",6.4401103,100.1880866
+Perlis,Perlis,Hospital Tuanku Fauziah,6.4403051,100.1904689
+Penang,Barat Daya,B Braun Medical Industries Sdn Bhd,24.85634815,-129.67381675
+Penang,Barat Daya,Dewan Balai Rakyat Bayan Baru,5.3668898,100.30505965
+Penang,Barat Daya,Equatorial Hotel Penang,4.9542965,100.83204255
+Penang,Barat Daya,Hospital Balik Pulau,5.3502289,100.2331295
+Penang,Barat Daya,Intel Penang,5.35409125,100.4298467
+Penang,Barat Daya,Jabil Penang (Plant 1),5.3037105,100.2916751
+Penang,Barat Daya,Keysight Technologies,39.15933715,-96.96123745
+Penang,Barat Daya,Kompleks Sukan Balik Pulau,5.3387159,100.2137245
+Penang,Barat Daya,Plexus Manufacturing,28.6128298,-9.27708215
+Penang,Barat Daya,Subterranean Penang International Convention & Exhibition Centre (SPICE),5.3314698,100.28402455
+Penang,Barat Daya,TAPAK PESTA PULAU PINANG,5.3439362,100.3003605
+Penang,Seberang Perai Selatan,Dewan Serbaguna Jawi,5.20799085,100.4948443
+Penang,Seberang Perai Selatan,DEWAN SERBAGUNA SG. BAKAP,5.2146223,100.4969337
+Penang,Seberang Perai Selatan,Hospital Sungai Bakap,5.2192779,100.4972446
+Penang,Seberang Perai Selatan,Inari Technology Plant 34,,
+Penang,Seberang Perai Selatan,"Micron, Bukit Jawi Resort",5.8074359,100.1297205
+Penang,Seberang Perai Tengah,Flextronics,37.42509125,-101.5172782
+Penang,Seberang Perai Tengah,Hospital Bukit Mertajam,5.3593459,100.4640656
+Penang,Seberang Perai Tengah,Hospital Seberang Jaya,5.3941082,100.4078271
+Penang,Seberang Perai Tengah,Molex (Malaysia) Sdn Bhd,5.3508428,100.4204088
+Penang,Seberang Perai Tengah,Seberang Perai Arena Convention Centre,5.3869912,100.4014628
+Penang,Seberang Perai Tengah,Tapak Ekspo Seberang Jaya,5.400368,100.40448345
+Penang,Seberang Perai Utara,Dewan Milenium Kepala Batas,5.5143397,100.4377244
+Penang,Seberang Perai Utara,DEWAN PERDA CONVENTION CENTRE,5.5034656,100.5012349
+Penang,Seberang Perai Utara,Dewan Sains@Bertam Jalan Bertam 2,5.515016,100.4371005
+Penang,Timur Laut,"Dewan Utama Pelajar (Dewan Peperiksaan), Jalan Bukit Gambir, USM Gelugor",5.3564536,100.2943517
+Penang,Timur Laut,Hospital Pulau Pinang,5.40683585,100.30869105
+Penang,Timur Laut,Kompleks Masyarakat Penyayang,5.4182883,100.3048986
+Penang,Timur Laut,Swettenham Cruise Terminal,5.4186276,100.3455832
+Kedah,Baling,Dewan Kenangan Tun Abdul Razak,5.6753854,100.9210586
+Kedah,Baling,"Dewan MDB Kupang, Baling",5.6758559,100.9161327
+Kedah,Baling,Hospital Baling,5.6777182,100.9258165
+Kedah,Baling,Universiti Islam Antarabangsa Sultan Abdul Halim Mu'adzam Shah (UniSHAMS),5.5837827,100.6428448
+Kedah,Bandar Baharu,Kompleks Sukan Komuniti Serdang,5.2077396,100.6131852
+Kedah,Kota Setar,"Dewan Serbaguna Kementerian Dalam Negeri, Anak Bukit",6.1855158,100.3765792
+Kedah,Kota Setar,Hospital Sultanah Bahiyah,6.14662395,100.390581
+Kedah,Kota Setar,Stadium Tertutup Sultan Abdul Halim,6.1505639,100.3653387
+Kedah,Kuala Muda,Dewan Kenangan MPSP(K),5.6437089,100.4871204
+Kedah,Kuala Muda,"Dewan Kenangan MPSP(K), Kuala Muda",5.6437089,100.4871204
+Kedah,Kuala Muda,Dewan MPSP(K) Taman Gurun Jaya,5.8168938,100.471656
+Kedah,Kubang Pasu,"Dewan Sri Mas, Polimas Jitra",6.2496681,100.4316558
+Kedah,Kubang Pasu,Dewan Tunku Anum,6.2992217,100.4218294
+Kedah,Kubang Pasu,Hospital Jitra,6.2787858,100.4190655
+Kedah,Kulim,Dewan Bandaran Kulim,5.3693666,100.5585594
+Kedah,Kulim,"Dewan Mahsuri, Padang Serai, Kulim",5.5077507,100.5435685
+Kedah,Kulim,Hospital Kulim,5.3931314,100.5730363
+Kedah,Langkawi,"Dewan Badminton Kompleks Sukan LADA, Kuah",6.3314716,99.8584233
+Kedah,Langkawi,"Dewan Syifa, Padang Mat Sirat",6.34785,99.73192595
+Kedah,Langkawi,Hospital Langkawi,6.3247688,99.7984415
+Kedah,Langkawi,Klinik Kesihatan Air Hangat,6.422797,99.8031172
+Kedah,Langkawi,Langkawi International Convention Centre (LICC),6.3017791,99.8549325
+Kedah,Padang Terap,"Dewan Tunku Putra, Kuala Nerang",6.257098,100.6128932
+Kedah,Padang Terap,Hospital Kuala Nerang,6.25263,100.6097715
+Kedah,Pendang,"Dewan Cenderawasih, Pekan Pendang",5.9912128,100.4771107
+Kedah,Sik,"Dewan Al Hana, Kedah",6.0714851,100.29833235
+Kedah,Sik,Hospital Sik,5.8122196,100.7269887
+Kedah,Sungai Petani,Dewan Pusat Latihan Anti Dadah Kebangsaan (PLAK),5.626002,100.53271
+Kedah,Sungai Petani,Hospital Sultan Abdul Halim,5.6695817,100.5174146
+Kedah,Yan,Dewan Serbaguna Guar Chempedak,5.8527056,100.4612488
+Kedah,Yan,Hospital Yan,38.4786602,-96.6921828
+Perak,Bagan Datuk,"Dewan Dato' Mohamed Jamrah, Sg Sumun",3.8910558,100.8527149
+Perak,Batang Padang,"Dewan Feldajaya Trolak, Sungkai",3.9299874,101.3470846
+Perak,Batang Padang,Dewan Merdeka Tapah,4.1976039,101.2564611
+Perak,Batang Padang,Hospital Tapah,4.2018538,101.2596117
+Perak,Hilir Perak,Dewan Bandaran Teluk Intan,4.02286335,101.02479625
+Perak,Hilir Perak,Hospital Teluk Intan,4.0046049,101.0403233
+Perak,Hulu Perak,Dewan Bandaran Pengkalan Hulu,5.7016573,100.9946636
+Perak,Hulu Perak,Dewan Merdeka Lenggong,5.1082517,100.9677914
+Perak,Hulu Perak,Dewan Serbaguna Gerik,5.43932565,101.14012215
+Perak,Hulu Perak,Hospital Gerik,18.6047669,-176.8242657
+Perak,Kampar,Dewan Bandaran Kampar,4.3015439,101.1610722
+Perak,Kampar,"Dewan Kemas, Gopeng",4.4869983,101.1536735
+Perak,Kampar,"Dewan Tun Dr Ling Liong Sik, Universiti Tun Abdul Rahman, Kampar",4.3402968,101.1377051
+Perak,Kampar,Hospital Kampar,4.3118993,101.1563613
+Perak,Kerian,Dewan Datok Zainal Abidin Zin,5.0145614,100.5347843
+Perak,Kerian,Dewan Kerian Permai,5.1176437,100.4818266
+Perak,Kerian,Hospital Parit Buntar,5.10786355,100.4844282
+Perak,Kinta,Casuarina Convention Centre,4.66772555,101.07720105
+Perak,Kinta,"Dewan Bandaran Kinta, Batu Gajah",4.4754781,101.0360409
+Perak,Kinta,Hospital Raja Permaisuri Bainun,4.6039191,101.0901656
+Perak,Kinta,Hospital Bahagia Ulu Kinta,4.6547231,101.14975535
+Perak,Kinta,Hospital Batu Gajah,4.4794184,101.0350183
+Perak,Kinta,Stadium Indera Mulia,4.6102299,101.1019742
+Perak,Kuala Kangsar,"Dewan Majlis Perbandaran Kuala Kangsar (MPKK), Sungai Siput",4.7929584,101.01290365
+Perak,Kuala Kangsar,Dewan Millenium Lubok Merbau,4.7854365,100.8980516
+Perak,Kuala Kangsar,Hospital Kuala Kangsar,4.7730658,100.9319681
+Perak,"Larut, Matang dan Selama",Dewan Besar ADTEC,4.62086375,102.0467857
+Perak,"Larut, Matang dan Selama","Dewan Rumpun Seri, Kolej Multimedia (Utara), Kompleks Telekom, Taiping",4.8687494,100.7538443
+Perak,"Larut, Matang dan Selama","Dewan Rumpun Seri, Kompleks Telekom, Taiping",4.8687494,100.7538443
+Perak,"Larut, Matang dan Selama",Dewan Serbaguna Majlis Daerah Selama Permai 2,5.2124996,100.69462375
+Perak,"Larut, Matang dan Selama",Hospital Selama,5.2131237,100.6888752
+Perak,"Larut, Matang dan Selama",Hospital Taiping,4.8510726,100.7368622
+Perak,Manjung,"Dewan Inderawati , Beruas",4.50256,100.7817158
+Perak,Manjung,"Dewan Kejora, Pangkor",4.2109076,100.559093
+Perak,Manjung,Dewan Serbaguna Perumahan Penjawat Awam Lumut Kiri,4.2262053,100.6730575
+Perak,Manjung,Hospital Seri Manjung,4.1855526,100.6618251
+Perak,Manjung,Sapura Fabrication Sdn Bhd,4.2460312,100.6715927
+Perak,Muallim,Dewan Tan Sri Ghazali Jawi,3.837399,101.3978042
+Perak,Muallim,Hospital Slim River,3.8387897,101.4051714
+Perak,Muallim,"Kompleks Akademik UPSI, Kampus Sultan Azlan Shah, Tg Malim",3.72439525,101.52840175
+Perak,Muallim,Stadium Proton Tanjung Malim,3.73912,101.513684
+Perak,Muallim,Stadium Proton Tanjung Malim,3.73912,101.513684
+Perak,Perak Tengah,Dewan Besar Felcra Seberang Perak,4.141135,100.9038076
+Perak,Perak Tengah,Dewan Serbaguna Seri Iskandar,4.3654745,100.9556577
+Perak,Perak Tengah,Hospital Changkat Melintang,4.312958,100.910491
+Kelantan,Bachok,Dewan Majlis Daerah Bachok,6.0564257,102.3993443
+Kelantan,Bachok,Dewan Tuanku Canselor UMK Bachok,5.9982387,102.4018804
+Kelantan,Gua Musang,Balai Raya Felda Chiku 5,4.9877583,102.2026107
+Kelantan,Gua Musang,Dewan Bangunan Latihan KESEDAR,,
+Kelantan,Gua Musang,Dewan Orang Ramai Jerek,5.1703995,102.0084083
+Kelantan,Gua Musang,Hospital Gua Musang,4.8594875,101.9546244
+Kelantan,Gua Musang,Pusat Sivik Gua Musang,4.8699952,101.9616132
+Kelantan,Jeli,Dewan Majlis Daerah Jeli,5.69466915,101.84534575
+Kelantan,Jeli,Hospital Jeli,5.7012901,101.8443011
+Kelantan,Kota Bharu,Dewan Kebudayaan Dan Kesenian Kelantan,6.143936,102.2524501
+Kelantan,Kota Bharu,Dewan Majlis Daerah Ketereh,5.960551,102.2517838
+Kelantan,Kota Bharu,"Dewan Sri Tunjung, Jabatan Pendidikan Negeri Kelantan",6.1075527,102.25866765
+Kelantan,Kota Bharu,Dewan Yayasan Kemiskinan Kelantan,5.9995775,102.2896547
+Kelantan,Kota Bharu,Hospital Raja Perempuan Zainab Ii,6.1252883,102.245712
+Kelantan,Kota Bharu,Kompleks Islam Jubli Perak,6.1296074,102.3024344
+Kelantan,Kota Bharu,Kompleks Islam Jubli Perak Sultan Ismail Petra,6.1296074,102.3024344
+Kelantan,Kuala Krai,Dewan Manik Urai,5.7485329,102.25314435
+Kelantan,Kuala Krai,Dewan Serbaguna Dabong,5.5422251,102.2054424
+Kelantan,Kuala Krai,Dewan Taman Sri Guchil,5.542204,102.20534215
+Kelantan,Kuala Krai,Hospital Sultan Ismail Petra,5.51611375,102.21097295
+Kelantan,Machang,Dewan Perpaduan Machang,5.76274355,102.21518735
+Kelantan,Machang,Dewan Profesional UITM,3.069724,101.5036726
+Kelantan,Machang,Hospital Machang,5.7631889,102.2258299
+Kelantan,Pasir Mas,Dewan Apam Putra Lubok Jong,6.01921645,102.1133139
+Kelantan,Pasir Mas,Dewan Bandar Pasir Mas,6.0436,102.1451046
+Kelantan,Pasir Mas,Dewan Samad Gul Pusat Tarbiyah Pas Rantau Panjang,5.9996095,102.0665509
+Kelantan,Pasir Mas,Hospital Pasir Mas,6.0139824,102.1189818
+Kelantan,Pasir Puteh,Dewan APMM,5.8632794,110.29451535
+Kelantan,Pasir Puteh,Dewan Majlis Daerah Pasir Puteh,5.83683945,102.4044005
+Kelantan,Pasir Puteh,Hospital Tengku Anis,5.8329518,102.3877575
+Kelantan,Tanah Merah,Dewan Felda Kemahang 1,5.8498409,102.0071228
+Kelantan,Tanah Merah,Hospital Tanah Merah,5.8099911,102.1523233
+Kelantan,Tumpat,Dewan Bunga Raya Pantai Seri Tujuh,6.2168427,102.1271678
+Kelantan,Tumpat,Dewan Kopeladar,6.1193071,102.1967117
+Kelantan,Tumpat,Dewan Putra SBJ,6.08349505,102.21410095
+Kelantan,Tumpat,Dewan Sri Renjuna,6.1987386,102.1707084
+Kelantan,Tumpat,Hospital Tumpat,6.1897387,102.1573041
+Terengganu,Besut,Dewan Gong Kemuntong,5.73842095,102.50532275
+Terengganu,Besut,Hospital Besut,5.7296503,102.4925699
+Terengganu,Besut,Kota Putra Square,5.7965,102.5652587
+Terengganu,Dungun,Dewan Aspirasi UiTM,4.7062365,103.4417181
+Terengganu,Dungun,Dewan Dagang Politeknik Sultan Mizan Zainal Abidin,4.7101697,103.4021673
+Terengganu,Dungun,Hospital Dungun,4.7518763,103.4148317
+Terengganu,Hulu Terengganu,Dewan MDHT Kuala Berang,5.0718995,103.0088596
+Terengganu,Hulu Terengganu,Dewan Sivik Ajil,5.0860254,103.0879753
+Terengganu,Hulu Terengganu,Hospital Hulu Terengganu,5.0732163,103.0447747
+Terengganu,Kemaman,Dewan Dato' Seri Amar Diraja,2.040576,102.578618
+Terengganu,Kemaman,Dewan Sivik Kertih,4.5123031,103.4474977
+Terengganu,Kemaman,Hospital Kemaman,4.232613,103.4210574
+Terengganu,Kemaman,PPV Lion Plate MillS,4.399124,103.251021
+Terengganu,Kemaman,"Qualitas Medical, Petronas Kertih Integrated Petrochemical Complex",4.5879182,103.4388767
+Terengganu,Kemaman,University College TATI,4.3011681,103.4740486
+Terengganu,Kuala Nerus,Stadium Tertutup Gong Badak,5.3681341,103.1029773
+Terengganu,Kuala Terengganu,Dewan Al- Muktafi Billah Shah UniSZA,5.3997172,103.0781619
+Terengganu,Kuala Terengganu,Dewan Konvensyen Duyong,4.2015145,102.42140505
+Terengganu,Kuala Terengganu,Dewan Sivik Bukit Payong,5.1400694,103.0859875
+Terengganu,Kuala Terengganu,Hospital Sultanah Nur Zahirah,5.323906,103.1506737
+Terengganu,Kuala Terengganu,Pusat Sains dan Kreativiti,5.2697017,103.1517093
+Terengganu,Kuala Terengganu,Terengganu Trade Centre ( TTC),5.35022085,103.1044696
+Terengganu,Marang,Dewan Utama Majlis Daerah Marang,5.209456,103.2005966
+Terengganu,Setiu,Dewan Serbaguna Sg Tarom,5.5177858,102.7644403
+Terengganu,Setiu,Hospital Setiu,5.5141275,102.7695167
+Pahang,Bentong,Dewan Majlis Perbandaran Bentong,3.5108037,101.91774375
+Pahang,Bentong,"Dewan Perhimpunan Cina, Bentong",3.5238914,101.9062624
+Pahang,Bentong,Dewan Sekolah Menengah Karak Setia,3.4272937,102.0531825
+Pahang,Bentong,"Dewan Serbaguna Felda Kemasul, Chemomoi",3.2447289,102.2254564
+Pahang,Bentong,Dewan SJKC Telemong,3.2931544,102.0884817
+Pahang,Bentong,Hospital Bentong,3.5148909,101.91320895
+Pahang,Bera,Dewan Konvensyen Majlis Daerah Bera,3.25648905,102.44411755
+Pahang,Bera,Dewan Semai Bakti Felda Sebertak,3.25620815,102.58492515
+Pahang,Bera,"Dewan SJK China, Kemayan",40.7129914,-73.9877033
+Pahang,Cameron Highlands,Dewan Puncak Arabella,4.4639712,101.3847536
+Pahang,Cameron Highlands,Hospital Sultanah Hajjah Kalsom,4.4667742,101.3912089
+Pahang,Jerantut,Dewan ADTEC,4.8596955,100.72196
+Pahang,Jerantut,Dewan Chu Rahimah Jerantut,3.98554,102.339454
+Pahang,Jerantut,Dewan SK Ulu Tembeling,4.455355,102.53347095
+Pahang,Jerantut,Hospital Jerantut,3.9293159,102.3601703
+Pahang,Jerantut,Klinik Desa Kampung Pagi,4.446757,102.4837099
+Pahang,Jerantut,Klinik Kesihatan Damak,21.47763895,12.5521783
+Pahang,Jerantut,Klinik Kesihatan Felda Lepar Utara 4,3.9092556,102.8069442
+Pahang,Jerantut,Klinik Kesihatan Jerantut Feri,3.9584174,102.4241561
+Pahang,Jerantut,Klinik Kesihatan Kuala Tahan,4.2242584,102.35977995
+Pahang,Jerantut,Klinik Kesihatan Padang Piol,4.0335941,102.3832541
+Pahang,Jerantut,Klinik Kesihatan Sungai Tekam Utara,3.89039,102.597
+Pahang,Jerantut,Xcape Resort Tahan,4.3812518,102.4060668
+Pahang,Kuantan,Dewan Jubli Perak Sultan Haji Ahmad Shah,3.8134129,103.3583374
+Pahang,Kuantan,Hospital Tengku Ampuan Afzan,3.8009173,103.3215148
+Pahang,Kuantan,Klinik Kesihatan Balok,3.932985,103.3724743
+Pahang,Kuantan,Klinik Kesihatan Beserah,3.8500244,103.3625411
+Pahang,Kuantan,Klinik Kesihatan Bukit Goh (Felda),3.913165,103.257095
+Pahang,Kuantan,Klinik Kesihatan Gambang,3.69059735,103.1080253
+Pahang,Kuantan,Klinik Kesihatan Indera Mahkota,3.8245195,103.2869805
+Pahang,Kuantan,Klinik Kesihatan Jaya Gading,3.753344,103.204236
+Pahang,Kuantan,Klinik Kesihatan Kurnia,3.7799047,103.2857078
+Pahang,Kuantan,Klinik Kesihatan Paya Besar,3.788577,103.2384515
+Pahang,Kuantan,Klinik Kesihatan Permatang Badak,3.7913348,103.2674938
+Pahang,Kuantan,Klinik Kesihatan Sungai Lembing,3.9253012,103.0725278
+Pahang,Kuantan,Klinik Kesihatan Sungai Ular,4.0451622,103.3941763
+Pahang,Kuantan,Lembaga Pelabuhan Kuantan,3.9691525,103.41431445
+Pahang,Kuantan,Sultan Ahmad Shah Medical Centre @IIUM (SASMEC@IIUM),3.2504767,101.7346695
+Pahang,Kuantan,Wisma Belia,3.3154005,102.40042725
+Pahang,Lipis,Bilik Gerakan JKK Simpang Pelangai,3.17568395,102.193195
+Pahang,Lipis,"Dewan Balora Benta, Lipis",4.0143195,101.9666078
+Pahang,Lipis,"Dewan Jubli Perak, Lipis",4.1791126,102.0523014
+Pahang,Lipis,Dewan Orang Ramai Kampung Mela,4.074659,102.2703981
+Pahang,Lipis,"Dewan Orang Ramai Relong, Padang Tengku",4.23454945,101.9485888
+Pahang,Lipis,Dewan Serbaguna Padang Tengku,4.22548265,101.97600115
+Pahang,Lipis,Dewan Serbaguna RPS Merapoh,4.79513205,101.89590485
+Pahang,Lipis,Hospital Kuala Lipis,4.1826046,102.0556135
+Pahang,Lipis,Hospital Lipis,4.1817777,102.05540765
+Pahang,Lipis,Klinik Kesihatan Merapoh,4.69369985,102.0009751
+Pahang,Maran,"Dewan Jubli Perak, Jengka",3.51475795,102.6369451
+Pahang,Maran,"Dewan Jubli Perak, Maran",3.5832096,102.7789371
+Pahang,Maran,"Dewan Sekolah Menengah Tengku Ampuan Afzan, Chenor",3.50514875,102.5627888
+Pahang,Maran,Dewan Umno Pekan Tajau,3.5564981,102.689659
+Pahang,Maran,Hospital Jengka,3.7731272,102.5517065
+Pahang,Maran,Klinik Kesihatan Chenor,3.48130495,102.5646593
+Pahang,Maran,Klinik Kesihatan Jengka 22,3.71853,102.476
+Pahang,Maran,Klinik Kesihatan Pekan Awah,3.5001263,102.5383026
+Pahang,Maran,Klinik Kesihatan Sri Jaya,3.669402,102.8868838
+Pahang,Maran,Stadium Tun Abdul Razak,3.7720871,102.5477848
+Pahang,Pekan,Bilik Operasi JKKK Nenasi Pantai (Bekas GIATMARA Nenasi),3.143416,103.43683235
+Pahang,Pekan,"Dewan Canseleri Sultan Haji Ahmad Shah, Drb Hicom",3.5275499,103.3874747
+Pahang,Pekan,Dewan Konvesyen Sultan Haji Ahmad Shah,3.4906347,103.3902566
+Pahang,Pekan,Dewan Semai Bakti Felda Chini 1,3.3741325,102.9365325
+Pahang,Pekan,Dewan Teknologi Abdul Aziz IKM,3.535565,103.3827354
+Pahang,Pekan,Hospital Pekan,3.5022692,103.3801102
+Pahang,Raub,Dewan JKKK Kampung Sungai Koyan 1,4.22422035,101.7997634
+Pahang,Raub,Dewan Jubli Perak Raub,3.7937017,101.8546655
+Pahang,Raub,Dewan Semai Bakti Felda Tersang 3,4.0807155,101.7984346
+Pahang,Raub,Dewan UITM Raub,3.7646645,101.859821
+Pahang,Raub,Hospital Raub,3.8099055,101.8514277
+Pahang,Rompin,Dewan Besar Dara Muadzam Shah,3.0629458,103.0774027
+Pahang,Rompin,"Dewan Jubli Perak Sultan Ahmad Shah, Kuala Rompin",2.7995432,103.472773
+Pahang,Rompin,Hospital Muadzam Shah,3.0537991,103.0909161
+Pahang,Rompin,Hospital Rompin,2.79691145,103.4908768
+Pahang,Temerloh,Dewan Mpt Dato Bahaman Lanchang,3.5081631,102.1513114
+Pahang,Temerloh,"Dewan MPT Dato' Zaharuddin Abu Kassim Simpang Peragap, Temerloh",3.5466204,102.394992
+Pahang,Temerloh,"Dewan Tun Razak, Temerloh",3.4492468,102.4185429
+Pahang,Temerloh,Hospital Sultan Ahmad Shah,3.453226,102.4531753
+Pahang,Temerloh,Hospital Sultan Hj Ahmad Shah,3.453707,102.45160115
+Negeri Sembilan,Jelebu,Dewan D'Sury,2.95320135,102.10169595
+Negeri Sembilan,Jelebu,Hospital Jelebu,2.95034545,102.059117
+Negeri Sembilan,Jelebu,Klinik Kesihatan Chennah,3.0906057,102.0738983
+Negeri Sembilan,Jelebu,Klinik Kesihatan Pertang,2.98595265,102.24683965
+Negeri Sembilan,Jempol,Dewan Majlis Perbandaran Jempol,2.8086287,102.4017717
+Negeri Sembilan,Jempol,Dewan Pejabat Daerah Jempol,2.8540017,102.40223995
+Negeri Sembilan,Jempol,Hospital Jempol,2.9032324,102.4069305
+Negeri Sembilan,Jempol,Klinik Kesihatan Bahau,2.8031332,102.3778618
+Negeri Sembilan,Jempol,Klinik Kesihatan Lui Muda,2.96481,102.394901
+Negeri Sembilan,Jempol,"Klinik Kesihatan Palong 4,5,6",2.741509,102.6473861
+Negeri Sembilan,Jempol,"Klinik Kesihatan Palong 9,10,11",2.7842323,102.5811996
+Negeri Sembilan,Kuala Pilah,Dewan Dato Bahaman,2.7406771,102.2444786
+Negeri Sembilan,Kuala Pilah,Dewan Kompleks Rakan Muda,4.07372515,101.52985065
+Negeri Sembilan,Kuala Pilah,Hospital Tuanku Ampuan Najihah,2.7348657,102.2330869
+Negeri Sembilan,Kuala Pilah,Klinik Kesihatan Gunung Pasir,2.668071,102.1457981
+Negeri Sembilan,Kuala Pilah,Klinik Kesihatan Johol,2.6091365,102.2682842
+Negeri Sembilan,Kuala Pilah,Klinik Kesihatan Juasseh,2.79359,102.302604
+Negeri Sembilan,Kuala Pilah,Klinik Kesihatan Kuala Pilah,2.7766435,102.23202295
+Negeri Sembilan,Kuala Pilah,Klinik Kesihatan Padang Lebar,2.85919,102.271
+Negeri Sembilan,Kuala Pilah,Klinik Kesihatan Senaling,2.7075248,102.2483104
+Negeri Sembilan,Kuala Pilah,Klinik Kesihatan Seri Menanti,2.6995859,102.15603315
+Negeri Sembilan,Kuala Pilah,Klinik Kesihatan Terachi,2.74171,102.135
+Negeri Sembilan,Port Dickson,Dewan Kompleks Belia Dan Sukan Teluk Kemang,2.449563,101.858067
+Negeri Sembilan,Port Dickson,Hospital Port Dickson,2.4777276,101.8550101
+Negeri Sembilan,Port Dickson,Klinik Kesihatan Bukit Pelandok,2.6372465,101.7614688
+Negeri Sembilan,Port Dickson,Klinik Kesihatan Lukut,2.5764326,101.8374515
+Negeri Sembilan,Port Dickson,Klinik Kesihatan Pasir Panjang,2.428982,101.937195
+Negeri Sembilan,Port Dickson,Klinik Kesihatan Port Dickson,2.51552495,101.82438855
+Negeri Sembilan,Rembau,Dewan Seri Rembau,2.5918092,102.0995483
+Negeri Sembilan,Rembau,Hospital Rembau,2.54907235,102.11421715
+Negeri Sembilan,Rembau,Klinik Kesihatan Astana Raja,2.5080642,102.1194783
+Negeri Sembilan,Rembau,Klinik Kesihatan Pedas,2.6249856,102.051728
+Negeri Sembilan,Rembau,Klinik Kesihatan Rembau,2.5857514,102.0931327
+Negeri Sembilan,Rembau,UITM Rembau (Dewan Biduanda),2.5105215,102.0629142
+Negeri Sembilan,Seremban,AMC Medical Clinic,38.1359188,-95.6469417
+Negeri Sembilan,Seremban,D'cattleya,37.4863285,-162.5030023
+Negeri Sembilan,Seremban,Dewan Majlis Bandaraya Seremban,2.723308,101.9405362
+Negeri Sembilan,Seremban,Dewan Orang Ramai Sendayan,2.6744202,101.8441435
+Negeri Sembilan,Seremban,Dewan Org Ramai Sikamat,2.74435555,101.96632565
+Negeri Sembilan,Seremban,Dewan Pusat Islam Rantau,2.5952011,101.9589437
+Negeri Sembilan,Seremban,DTempat,2.6745717,101.8631431
+Negeri Sembilan,Seremban,Hospital Tuanku Ja'Afar,2.70893535,101.9430369
+Negeri Sembilan,Seremban,Klinik Icon Seremban 2,2.6852926,101.9066896
+Negeri Sembilan,Seremban,Klinik Kesihatan Ampangan,2.72345515,101.98681375
+Negeri Sembilan,Seremban,Klinik Kesihatan Mantin,2.824917,101.8930734
+Negeri Sembilan,Seremban,Klinik Kesihatan Nilai,2.81291165,101.7956133
+Negeri Sembilan,Seremban,Klinik Kesihatan Rantau,2.6004914,101.962033
+Negeri Sembilan,Seremban,Klinik Kesihatan Senawang,2.692094,101.9881546
+Negeri Sembilan,Seremban,Klinik Kesihatan Seremban 2,2.6973088,101.923694
+Negeri Sembilan,Seremban,Kompleks Belia dan Sukan Paroi,2.7259873,101.9777686
+Negeri Sembilan,Seremban,Universiti Sains Islam Malaysia (USIM) - Dewan Tuanku Canselor,2.84556605,101.78261265
+Negeri Sembilan,Tampin,Dewan Besar Gemas,2.5812816,102.5946518
+Negeri Sembilan,Tampin,Dewan Perdana Tampin,2.470614,102.2262975
+Negeri Sembilan,Tampin,Hospital Tampin,2.484776,102.2336438
+Negeri Sembilan,Tampin,Klinik Kesihatan Gemas,2.5841161,102.6046494
+Negeri Sembilan,Tampin,Klinik Kesihatan Gemencheh,2.532729,102.3997979
+Negeri Sembilan,Tampin,Klinik Kesihatan Jelai,2.6458473,102.4889961
+Negeri Sembilan,Tampin,Kompleks Sukan Komuniti Felda Palong 6,2.740761,102.649658
+Melaka,Alor Gajah,Dewan CREATE,2.453687,102.2056068
+Melaka,Alor Gajah,"Dewan Taming Sari, UiTM Lendu",2.3631143,102.1862499
+Melaka,Alor Gajah,Hospital Alor Gajah,2.3954442,102.2020059
+Melaka,Alor Gajah,Hospital Jasin,2.3048477,102.4296052
+Melaka,Alor Gajah,Kompleks Sukan Masjid Tanah,2.35857795,102.141971
+Melaka,Jasin,Dewan Majlis Pembandaran Jasin Sri Umbai,2.1589265,102.340273
+Melaka,Jasin,Dewan MPJ Alamanda Jasin,2.44725935,102.096167
+Melaka,Jasin,Dewan MPJ Hj. Ahmad Ithnin Merlimau,2.146682,102.4286501
+Melaka,Melaka Tengah,Dewan Bunga Tanjung,3.3139183,101.6477195
+Melaka,Melaka Tengah,Dewan CTRM,2.2696855,102.2510279
+Melaka,Melaka Tengah,Dewan Hang Tuah,2.201409,102.2479103
+Melaka,Melaka Tengah,Dewan Japerun Ayer Molek,2.206886,102.3145594
+Melaka,Melaka Tengah,Dewan Japerun Klebang,2.2101572,102.2052818
+Melaka,Melaka Tengah,Dewan Japerun Sg Udang,2.2897683,102.1310023
+Melaka,Melaka Tengah,Dewan MBMB Taman Bertam Jaya,2.22542055,102.24253555
+Melaka,Melaka Tengah,Dewan MMU,2.9291358,101.6422506
+Melaka,Melaka Tengah,Dewan MPHTJ Bukit Beruang,2.2431938,102.2723424
+Melaka,Melaka Tengah,Dewan Tun Ali,2.2307689,102.3012834
+Melaka,Melaka Tengah,Encore Melaka,2.1909891,102.2220947
+Melaka,Melaka Tengah,Hospital Melaka,2.2126851,102.2506105
+Melaka,Melaka Tengah,Malaysia Reﬁnery (Petronas),2.96450025,102.94066775
+Melaka,Melaka Tengah,SPA City Hall,34.49422465,-85.4524933
+Melaka,Melaka Tengah,Yayasan Toh Puan Zurina,2.2256661,102.2570415
+Johor,Batu Pahat,Dewan Besar Chee Ann Khor,2.0207046,103.0810361
+Johor,Batu Pahat,Dewan Jubli Intan Batu Pahat,1.8489069,102.9327375
+Johor,Batu Pahat,"Dewan Kompleks Penghulu Sungai Balang, Muar",1.9074415,102.7390022
+Johor,Batu Pahat,"Dewan Orang Ramai Parit Raja, Batu Pahat",1.86696125,103.11241985
+Johor,Batu Pahat,Dewan Sultan Ibrahim UTHM,1.8577044,103.080574
+Johor,Batu Pahat,Hospital Sultanah Nora Ismail,1.837516,102.9409968
+Johor,Johor Bahru,Austin International Convention Centre - AICC,15.91235455,-176.9818696
+Johor,Johor Bahru,Dewan Muafakat Johor Taman Adda,1.5498611,103.7438405
+Johor,Johor Bahru,"Dewan Raya Bandar Seri Alam, Masai",1.50475335,103.87304145
+Johor,Johor Bahru,Dewan Raya Taman Universiti,1.5407749,103.6331634
+Johor,Johor Bahru,Hospital Permai,1.5177895,103.71039585
+Johor,Johor Bahru,Hospital Sultan Ismail Johor Bahru,1.5463271,103.790894
+Johor,Johor Bahru,Hospital Sultanah Aminah,1.45967005,103.74703215
+Johor,Johor Bahru,Persada Johor International Convention Centre (Persada Johor),1.4615265,103.7615737
+Johor,Johor Bahru,Austin International Convention Centre - AICC,15.91235455,-176.9818696
+Johor,Johor Bahru,Dewan Muafakat Johor Taman Adda,1.5498611,103.7438405
+Johor,Johor Bahru,"Dewan Raya Bandar Seri Alam, Masai",1.50475335,103.87304145
+Johor,Johor Bahru,Dewan Raya Taman Universiti,1.5407749,103.6331634
+Johor,Johor Bahru,Hospital Permai,1.5177895,103.71039585
+Johor,Johor Bahru,Hospital Sultan Ismail Johor Bahru,1.5463271,103.790894
+Johor,Johor Bahru,Hospital Sultanah Aminah,1.45967005,103.74703215
+Johor,Johor Bahru,Persada Johor International Convention Centre (Persada Johor),1.4615265,103.7615737
+Johor,Kluang,Dewan Jubli Intan Kluang,2.0315346,103.3193199
+Johor,Kluang,Dewan Orang Ramai Simpang Renggam,1.8558668,103.3556923
+Johor,Kluang,Hospital Enche' Besar Hajjah Khalsom,2.0081238,103.3470945
+Johor,Kota Tinggi,Desaru Coast Conference Centre (DCCC),1.5406382,104.2648315
+Johor,Kota Tinggi,Dewan Jubli Intan Kota Tinggi,1.7361803,103.9012402
+Johor,Kota Tinggi,Dewan Kejora Bandar Penawar,1.71463145,103.9282603
+Johor,Kota Tinggi,Hospital Kota Tinggi,1.7387483,103.89846495
+Johor,Kota Tinggi,KK Bandar Penawar,1.63663325,104.16602185
+Johor,Kota Tinggi,RAPID Petronas Pengerang,1.3771644,104.167629
+Johor,Kulai,Dewan Kejora Bandar Tenggara,1.8749749,103.6146261
+Johor,Kulai,Dewan Raya Bandar Putra,1.6530082,103.6260493
+Johor,Kulai,Hospital Temenggong Seri Maharaja Tun Ibrahim,1.6397458,103.6238512
+Johor,Mersing,Dewan Jubli Intan Mersing,2.4335813,103.8400352
+Johor,Mersing,Hospital Mersing,2.429453,103.8453956
+Johor,Mersing,KK Tenggaroh 2,2.08695295,103.94815
+Johor,Muar,Dewan Jubli Intan Muar,2.04487535,102.56839515
+Johor,Muar,Dewan Maharani,2.0372469,102.5700102
+Johor,Muar,Dewan Serbaguna Pagoh,2.1535791,102.7784189
+Johor,Muar,Federation Of Johore Furniture Manufacturers And Traders Association (MFA),2.0488336,102.5855562
+Johor,Muar,Hospital Pakar Sultanah Fatimah,2.057115,102.5744456
+Johor,Muar,SKT Banquet Hall,23.1296406,-165.6843753
+Johor,Pontian,Dewan Jubli Intan Pontian,1.4865347,103.3876009
+Johor,Pontian,"Dewan Tunku Ibrahim Ismail, Pekan Nanas",1.5089356,103.509057
+Johor,Pontian,Hospital Pontian,1.4984596,103.3852071
+Johor,Pontian,Klinik Johor 14 Jam,1.6749538,103.25525775
+Johor,Pontian,Klinik Permata,-6.2387989,106.8121305
+Johor,Segamat,Dewan Serbaguna Jalan Genuang,2.4942663,102.8473778
+Johor,Segamat,Dewan Serbaguna Taman Yayasan,2.5597973,102.7947405
+Johor,Segamat,Hospital Segamat,2.49328755,102.8590525
+Johor,Tangkak,Dewan Jubli Intan Tangkak,2.2677349,102.5364044
+Johor,Tangkak,"Dewan Muafakat Johor, Bandar Baru Bukit Gambir",2.2160707,102.6532868
+Johor,Tangkak,Hospital Tangkak,2.2720635,102.5468192
+Johor,Tangkak,Kolej Kemahiran Tinggi MARA Ledang,2.1702061,102.5918733
+Sabah,Beaufort,Dewan Pak Musa,5.3446117,115.7467946
+Sabah,Beaufort,Hospital Beaufort,33.9697445,-78.86322475
+Sabah,Beluran,Dewan Kg Kubambangan Paitan,5.9160717,116.1094948
+Sabah,Beluran,Dewan Masyarakat Pekan Bongawan,5.540929,115.8538221
+Sabah,Beluran,Dewan Serbaguna Beluran,5.8961361,117.5590083
+Sabah,Beluran,Hospital Beluran,5.8934947,117.5554309
+Sabah,Bongawan,Dewan Kesenian Islam Membakut,5.4756531,115.8008728
+Sabah,Keningau,Dewan Masyarakat Keningau,5.407944,116.1986461
+Sabah,Keningau,Dewan Masyarakat Sook,5.1465633,116.3021875
+Sabah,Keningau,Hospital Keningau,5.3701277,116.1819528
+Sabah,Keningau,Klinik Kesihatan Apin-Apin,5.4546808,116.2554125
+Sabah,Keningau,Klinik Kesihatan Bingkor,5.4052903,116.1903464
+Sabah,Kinabatangan,Dewan Datu Paduka Mat Salleh PPD,5.5902625,117.8349174
+Sabah,Kinabatangan,Dewan IPS Telupid,5.6265052,117.1227245
+Sabah,Kinabatangan,Hospital Kinabatangan,5.584963,117.8504179
+Sabah,Kinabatangan,Klinik Kesihatan Sukau,5.5099152,118.2869702
+Sabah,Kota Belud,"Dewan Tun Said, Kota Belud",6.3537178,116.4312842
+Sabah,Kota Belud,Hospital Kota Belud,6.3449445,116.4269793
+Sabah,Kota Belud,Klinik Kesihatan Jawi-Jawi,6.4008669,116.4386104
+Sabah,Kota Belud,Klinik Kesihatan Rosok,6.3987458,116.5344507
+Sabah,Kota Belud,Klinik Kesihatan Taginambur,6.2265757,116.4491384
+Sabah,Kota Kinabalu,"Dewan KDCA, Penampang",5.922631,116.089673
+Sabah,Kota Kinabalu,Dewan Komuniti Manggatal,6.00917645,116.1584453
+Sabah,Kota Kinabalu,Dewan Mini Putrajaya Sabah,6.02906845,116.11765825
+Sabah,Kota Kinabalu,Dewan Pusat Pentadbiran Kerajaan Persekutuan,6.0287324,116.1185226
+Sabah,Kota Kinabalu,"Dewan Wisma Wanita, Sabah",5.9762536,116.0865963
+Sabah,Kota Kinabalu,Hospital Mesra Bukit Padang,5.9501784,116.1051903
+Sabah,Kota Kinabalu,Hospital Queen Elizabeth,33.26298875,-60.2994514
+Sabah,Kota Kinabalu,Hospital Queen Elizabeth Ii,5.9664872,116.0937928
+Sabah,Kota Kinabalu,"Hospital Wanita Dan Kanak - Kanak, Likas",6.0138039,116.1194999
+Sabah,Kota Kinabalu,Jabatan Kesihatan Negeri Sabah (Pacific Sutera),5.9675979,116.0660355
+Sabah,Kota Kinabalu,Klinik Kesihatan Luyang,5.9463533,116.0911218
+Sabah,Kota Kinabalu,"Kompleks Dewan Kuliah Pusat 13 & 14, UMS",6.0339835,116.1145619
+Sabah,Kota Kinabalu,Sabah International Convention Center,5.9974508,116.0843276
+Sabah,Kota Marudu,"Dewan Belia Arena KBBS, Pitas",,
+Sabah,Kota Marudu,Dewan Komuniti Kota Marudu,6.49590895,116.76934585
+Sabah,Kota Marudu,Hospital Kota Marudu,6.43616375,116.8099903
+Sabah,Kota Marudu,Klinik Kesihatan Langkon,6.5704335,116.7058373
+Sabah,Kota Marudu,Klinik Kesihatan Tandek,6.53361,116.852
+Sabah,Kuala Penyu,Hospital Kuala Penyu,5.5602788,115.5855573
+Sabah,Kudat,"Dewan Pejabat Daerah Kecil Matunggong, Kudat",6.75556045,116.71762535
+Sabah,Kudat,Dewan Tun Mustapa,5.9542854,117.5897318
+Sabah,Kudat,Hospital Kudat,6.9066627,116.8379427
+Sabah,Kunak,"Dewan IPD Kunak, Kunak",4.7204674,118.17090195
+Sabah,Kunak,Dewan Masyarakat Sri Kunak,4.684741,118.2475738
+Sabah,Kunak,Hospital Kunak,4.6771175,118.2322991
+Sabah,Lahad Datu,Dewan Perdana,3.45236755,109.50210405
+Sabah,Lahad Datu,Dewan Semai Bakti Desa Kencana,5.0787815,119.0650955
+Sabah,Lahad Datu,Dewan Serbaguna Lamag,0.5133316,109.10300935
+Sabah,Lahad Datu,Dewan Serbaguna Pusat Latihan Sawit M'sia (PLASMA) MPOB,,
+Sabah,Lahad Datu,Dewan Serbaguna Tambisan,,
+Sabah,Lahad Datu,Hospital Lahad Datu,5.0266887,118.3136736
+Sabah,Lahad Datu,Klinik Kesihatan Bukit Belacon,5.102023,118.2276642
+Sabah,Lahad Datu,Klinik Kesihatan Felda Sahabat,5.0786806,119.060749
+Sabah,Lahad Datu,Klinik Kesihatan Pulau Tambisan,5.4461598,119.1490936
+Sabah,Lahad Datu,Klinik Kesihatan Silabukan,5.0100418,118.47147255
+Sabah,Lahad Datu,Klinik Kesihatan Tungku,5.0256806,118.8833734
+Sabah,Nabawan,Dewan Serbaguna Majlis Daerah Nabawan,5.0416771,116.4333854
+Sabah,Papar,"Dewan Masyarakat Papar, Papar",5.7312049,115.9343014
+Sabah,Papar,Hospital Papar,5.7268546,115.9237714
+Sabah,Penampang,"Dewan Kebudayaan Penampang, Penampang",5.9160717,116.1094948
+Sabah,Pitas,Hospital Pitas,6.7119297,117.0296452
+Sabah,Putatan,"Dewan Sri Putatan, Putatan",5.895831,116.0389337
+Sabah,Ranau,Dewan Masyarakat Pekan Ranau,5.96541795,116.6241414
+Sabah,Ranau,Hospital Ranau,5.9533942,116.670941
+Sabah,Ranau,Klinik Kesihatan Kaingaran,6.0917658,116.9725138
+Sabah,Sandakan,Dewan Hakka,5.8657254,118.0625034
+Sabah,Sandakan,Dewan Masyarakat Sandakan,5.86007985,118.0720207
+Sabah,Sandakan,Dewan Serbaguna Libaran,5.9058753,118.0555868
+Sabah,Sandakan,Hospital Duchess Of Kent,5.8589537,118.1029559
+Sabah,Semporna,"Dewan Masyarakat Semporna, Semporna",4.477874,118.6130092
+Sabah,Semporna,Hospital Semporna,4.4828295,118.6044586
+Sabah,Semporna,Klinik Kesihatan Pulau Bum-Bum,4.4640278,118.6694793
+Sabah,Semporna,Klinik Kesihatan Semporna,4.45866455,118.56887975
+Sabah,Sipitang,Dewan Serbaguna Sipitang,5.03493,115.57293815
+Sabah,Sipitang,Hospital Sipitang,5.0964878,115.562959
+Sabah,Tambunan,Dewan Mini Tambunan,5.7960039,116.52172905
+Sabah,Tambunan,Hospital Tambunan,5.6825392,116.3710304
+Sabah,Tawau,Dewan IPG Balung,4.3639798,118.0996062
+Sabah,Tawau,Dewan Masyarakat Tawau,4.2461775,117.8841137
+Sabah,Tawau,"Dewan Masyarakat Tawau, Tawau",4.2461775,117.8841137
+Sabah,Tawau,Dewan Sk Kalabakan,4.4000248,117.4962768
+Sabah,Tawau,Dewan SK Merotai,4.4192884,117.7754026
+Sabah,Tawau,Hospital Tawau,4.2498168,117.8807429
+Sabah,Telupid,Klinik Kesihatan Telupid,5.6296267,117.1207733
+Sabah,Tenom,"Dewan Sri Antanom, Tenom",5.1246352,115.9437458
+Sabah,Tenom,Hospital Tenom,5.1231747,115.941286
+Sabah,Tongod,Klinik Kesihatan Tongod,5.2750588,116.9760037
+Sabah,Tuaran,Dewan Sri Sulaman,6.1755411,116.2333111
+Sabah,Tuaran,Hospital Tuaran,6.143924,116.219027
+Sarawak,Asajaya,Dewan Komuniti Sadong Jaya,1.5173187,110.7263183
+Sarawak,Asajaya,Kompleks Sukan Asajaya,1.5420518,110.619573
+Sarawak,Bau,Dewan Perdana Akademi Bomba Bau,1.4054643,110.1342031
+Sarawak,Bau,Hospital Bau,1.4295005,110.1426433
+Sarawak,Belaga,Dewan Masyarakat Sungai Asap,3.032126,113.9230131
+Sarawak,Betong,"Dewan Masyarakat Kalok, Pusa",1.6033415,111.2459073
+Sarawak,Betong,Dewan Panglima Rentap,1.4127402,111.5309001
+Sarawak,Betong,Hospital Betong,1.3739821,111.5737668
+Sarawak,Bintulu,"Auditorium BDA, Wisma BDA",3.19553095,113.0505366
+Sarawak,Bintulu,"Auditorium BDA, Wisma Bintulu",3.1956031,113.0505366
+Sarawak,Bintulu,Dewan Dinner World,49.2322731,-123.0903472
+Sarawak,Bintulu,Dewan Sri Kenyalang UPM,3.2071066,113.089919
+Sarawak,Bintulu,Eng Kwang Methodist Multipurpose Hall,3.1371095,102.3707879
+Sarawak,Bintulu,Hospital Bintulu,3.2296957,113.1010301
+Sarawak,Dalat,Stadium Perpaduan Dalat,2.7431346,111.9450335
+Sarawak,Daro,Dewan Masyarakat Daro,2.5140783,111.4290567
+Sarawak,Daro,Hospital Daro,2.5218077,111.4131669
+Sarawak,Julau,Dewan Masyarakat Julau,2.0924941,111.7749497
+Sarawak,Kabong,"Dewan Balai Polis Kabong, Kabong",1.9212352,111.2071833
+Sarawak,Kanowit,Dewan Pejabat Daerah Kanowit,2.1011604,112.151143
+Sarawak,Kanowit,Hospital Kanowit,2.1027581,112.1523139
+Sarawak,Kapit,Dewan Sri Balleh,2.0142773,112.9494028
+Sarawak,Kapit,Hospital Kapit,2.0138652,112.9426557
+Sarawak,Kapit,Multi-Storey Car Park Kapit,2.0159151,112.9402001
+Sarawak,Kuching,Borneo Convention Centre Kuching (BCCK),1.5626183,110.4056014
+Sarawak,Kuching,Christian Ecumenical Worship Centre,1.521799,110.344136
+Sarawak,Kuching,Hospital Sentosa,1.4629967,110.3298364
+Sarawak,Kuching,Hospital Umum Sarawak,1.543644,110.339635
+Sarawak,Kuching,SKJC Chung Hua No 1,3.9353794,-77.3617072
+Sarawak,Kuching,Stadium Perpaduan Kuching,1.5877218,110.3555337
+Sarawak,Lawas,Dewan Masyarakat Kpg Long Tuma,4.8029945,115.4089215
+Sarawak,Lawas,Dewan Masyarakat Kpg Sualai,4.8757819,115.3557761
+Sarawak,Lawas,Dewan Masyarakat Sundar,4.89475,115.2114346
+Sarawak,Lawas,Dewan Masyarakat Trusan,4.7855739,115.2759432
+Sarawak,Lawas,Hospital Lawas,4.8543947,115.4045908
+Sarawak,Lawas,Institut Latihan Islam Malaysia,4.3745966,102.1754573
+Sarawak,Limbang,Dewan Masyarakat Medamit,4.4785273,114.9078051
+Sarawak,Limbang,Dewan Persatuan Bisaya Limbang,3.217381,112.69841865
+Sarawak,Limbang,Dewan Suarah Limbang,4.7595467,115.0132728
+Sarawak,Limbang,Hospital Limbang,4.7642525,115.0190368
+Sarawak,Lubok Antu,Dewan Kompleks Sukan Majlis Daerah,3.047314,101.9802771
+Sarawak,Lubok Antu,Dewan Serbaguna Engkelili,1.1361793,111.6674148
+Sarawak,Lubok Antu,Dewan Serbaguna Engkilili,1.0902843,111.6310471
+Sarawak,Lundu,Dewan Suarah Lundu,1.675225,109.85320655
+Sarawak,Lundu,Hospital Lundu,1.6755934,109.8528202
+Sarawak,Marudi,Dewan Masyarakat Marudi,4.2579036,114.08743255
+Sarawak,Marudi,Hospital Marudi,4.1784081,114.3253545
+Sarawak,Matu,Dewan Suarah Matu,2.1320619,111.522244
+Sarawak,Miri,Dewan Dato Permysuri Permyjaya,4.4575358,114.0370847
+Sarawak,Miri,Dewan Eastwood Valley,4.370578,114.017184
+Sarawak,Miri,Dewan IKBN,3.2509658,102.01948955
+Sarawak,Miri,Dewan Masyarakat Bekenu,4.0582714,113.8463821
+Sarawak,Miri,Dewan Masyarakat Beluru,3.976035,114.1003092
+Sarawak,Miri,Dewan Masyarakat Sepupok Niah,3.8042377,113.7517081
+Sarawak,Miri,Hospital Miri,4.3743537,113.9998124
+Sarawak,Mukah,Dewan Suarah Mukah,2.898845,112.0919656
+Sarawak,Mukah,Hospital Mukah,2.9008306,112.0763521
+Sarawak,Pakan,Dewan Masyarakat Pakan,8.28510215,103.48860645
+Sarawak,Samarahan,Dewan Pembangunan Sebuyau,1.5201761,110.9356931
+Sarawak,Samarahan,Dewan Suarah Kota Samarahan,1.461976,110.4976372
+Sarawak,Samarahan,Pusat Jantung Sarawak,1.4809232,110.4190451
+Sarawak,Samarahan,Stadium Tertutup Samarahan,1.470349,110.4928839
+Sarawak,Saratok,Dewan Balai Polis Kabong,1.9212352,111.2071833
+Sarawak,Saratok,Dewan Sri Krian,1.738931,111.3368209
+Sarawak,Saratok,Hospital Saratok,1.7442314,111.3376689
+Sarawak,Sarikei,Dewan Masyarakat Meradong,2.1664812,111.6365433
+Sarawak,Sarikei,Dewan Suarah Sarikei,2.1320611,111.5222443
+Sarawak,Sarikei,Hospital Sarikei,2.1319958,111.4920017
+Sarawak,Sebauh,Balai Raya Sebauh,3.1177387,113.264143
+Sarawak,Selangau,Dewan Serbaguna Selangau,2.5315299,112.3277206
+Sarawak,Serian,Dewan Masyarakat Serian,1.1655952,110.5677008
+Sarawak,Serian,Dewan Masyarakat Siburan,1.35650575,110.37032085
+Sarawak,Serian,Dewan Masyarakat Tebedu,1.0154025,110.3545845
+Sarawak,Serian,Hospital Serian,1.1762658,110.5636098
+Sarawak,Sibu,Dewan Serbaguna Sibu Jaya,2.24456575,111.9672401
+Sarawak,Sibu,Dewan Suarah Sibu,2.3104537,111.8315794
+Sarawak,Sibu,Hospital Sibu,2.296471,111.891889
+Sarawak,Sibu,Indoor Stadium,38.3313694,-97.0794175
+Sarawak,Simunjan,Dewan Masyarakat Gedong / Perpustakaan Desa Gedong,-1.72078575,107.9974462
+Sarawak,Simunjan,Dewan Mesra Simunjan,1.396017,110.750759
+Sarawak,Simunjan,Hospital Simunjan,1.3700471,110.7862545
+Sarawak,Simunjan,KK Munggu Lallang,1.2459399,110.9229736
+Sarawak,Song,Rumah Rehat Song,2.0096139,112.5496743
+Sarawak,Sri Aman,Dewan Kampung Gua,3.53714855,105.99780375
+Sarawak,Sri Aman,Dewan Sri Pantu,1.1406618,111.1179889
+Sarawak,Sri Aman,Dewan Suarah Sri Aman,1.2410579,111.4575763
+Sarawak,Sri Aman,Hospital Sri Aman,1.2343801,111.4629353
+Sarawak,Sri Aman,Pejabat Daerah Lingga,-0.22192795,104.7047801
+Sarawak,Tanjung Manis,Dewan Masyarakat Belawai,2.2164482,111.21843865
+Sarawak,Tatau,Dewan Sukan Tatau,2.8794977,112.8491363
+Sarawak,Telang Usan,Dewan Terbuka Long Lama,3.7640006,114.4067767
+Selangor,Gombak,"Dewan Alwy, Jabatan Perhutanan Semenanjung Malaysia",3.2360267,101.6296346
+Selangor,Gombak,Hospital Orang Asli Gombak,3.2919717,101.7309713
+Selangor,Gombak,Hospital Selayang,3.2426173,101.6464691
+Selangor,Gombak,Hospital Sungai Buluh,3.2196265,101.5831991
+Selangor,Gombak,Klinik Kesihatan AU2,3.1749588,101.7487479
+Selangor,Gombak,Klinik Kesihatan Batu 8,,
+Selangor,Gombak,Klinik Kesihatan Batu Arang,3.3201676,101.4736959
+Selangor,Gombak,Klinik Kesihatan Gombak Setia,3.2178664,101.7142398
+Selangor,Gombak,Klinik Kesihatan Kuang,3.2594189,101.55195
+Selangor,Gombak,Klinik Kesihatan Rawang,3.3147693,101.5958835
+Selangor,Gombak,Klinik Kesihatan Selayang Baru,3.245237,101.6738341
+Selangor,Gombak,Klinik Kesihatan Sungai Buloh,3.2192844,101.5779949
+Selangor,Gombak,Klinik Kesihatan Taman Ehsan,3.224222,101.6229275
+Selangor,Gombak,"Le Garden Pavilion, Gamuda Gardens, Rawang, Gombak",3.28321805,101.53893315
+Selangor,Gombak,Pusat Pakar Perubatan UiTM (Sungai Buloh),3.22103425,101.59345045
+Selangor,Gombak,"Setia Eco Templer, Rawang",3.30017675,101.64358485
+Selangor,Gombak,"UNIKL British Malaysia Institute (BMI), Sg. Pusu",3.2511277,101.7279981
+Selangor,Hulu Langat,"Galaxy Mall, Ampang",3.1471156,101.7558731
+Selangor,Klang,Dewan Kelab Kilat Pangsapuri TNB Kapar,3.1279446,101.3753772
+Selangor,Klang,"Dewan LPK, Kelab Sukan Dan Rekreasi Pelabuhan Klang",2.99854,101.3938099
+Selangor,Klang,"Dewan Persatuan Hokkien, Klang",3.0526947,101.4617294
+Selangor,Klang,Dewan Persatuan Soka Gakkai,33.40494015,-96.24439765
+Selangor,Klang,Dewan Sukan Pandamaran,3.01484485,101.414699
+Selangor,Klang,Hospital Tengku Ampuan Rahimah,3.0205787,101.4398648
+Selangor,Klang,"Hotel Premier, Klang",3.0071772,101.4413166
+Selangor,Klang,Hotel Wyndham Acmar,3.0590226,101.4718593
+Selangor,Klang,Klinik Kesihatan Bandar Botanik,2.9894938,101.4464784
+Selangor,Klang,Klinik Kesihatan Bukit Kuda,3.0506643,101.4582095
+Selangor,Klang,Klinik Kesihatan Bukit Naga,3.003293,101.5053131
+Selangor,Klang,Klinik Kesihatan Klang (Anika),3.0372006,101.4470019
+Selangor,Klang,Klinik Kesihatan Meru,3.1363776,101.4409284
+Selangor,Klang,Klinik Kesihatan Pandamaran,3.01408,101.4122498
+Selangor,Klang,Klinik Kesihatan Pelabuhan Klang,3.0013383,101.3943435
+Selangor,Klang,Klinik Kesihatan Pulau Indah,2.937951,101.3246989
+Selangor,Klang,Klinik Kesihatan Rantau Panjang,3.0689456,101.4114814
+Selangor,Klang,Klinik Kesihatan Sg Bertik,3.0490245,101.4276434
+Selangor,Kuala Langat,Hospital Banting,2.8028617,101.4938279
+Selangor,Kuala Langat,Klinik Kesihatan Bukit Changgang,2.8287189,101.6185063
+Selangor,Kuala Langat,Klinik Kesihatan Jenjarom,2.8784422,101.5004496
+Selangor,Kuala Langat,Klinik Kesihatan Kampung Bandar,2.8514869,101.444301
+Selangor,Kuala Langat,Klinik Kesihatan Sijangkang,2.9414953,101.4562351
+Selangor,Kuala Langat,Klinik Kesihatan Tanjung Sepat,2.665595,101.5512682
+Selangor,Kuala Langat,Klinik Kesihatan Telok Panglima Garang,2.9049166,101.4675504
+Selangor,Kuala Langat,Kompleks Sukan Majlis Perbadanan Kuala Langat,2.8024798,101.4968754
+Selangor,Kuala Langat,MAHSA University,21.8611352,18.09159665
+Selangor,Kuala Selangor,Hospital Tanjung Karang,3.4045617,101.20398145
+Selangor,Kuala Selangor,Institut Pengurusan Peladang (IPP),4.8735362,100.51489335
+Selangor,Kuala Selangor,Klinik Kesihatan Jeram,3.302878,101.2942386
+Selangor,Kuala Selangor,Klinik Kesihatan Kuala Selangor,3.337005,101.2499241
+Selangor,Kuala Selangor,Klinik Kesihatan Tanjong Karang,3.421166,101.1737351
+Selangor,Kuala Selangor,Stadium Tertutup Kuala Selangor,3.3189475,101.2542419
+Selangor,Kuala Selangor,UITM Puncak Alam,3.2011674,101.447997
+Selangor,Petaling,"Dewan Bankuet Persada PLUS, Subang",3.1044625,101.5893517
+Selangor,Petaling,"Dewan Canselor MSU, Seksyen 13, Shah Alam",3.0715118,101.525875
+Selangor,Petaling,"Dewan Kemuning Utama, Seksyen 32, Shah Alam Selatan",3.0048723,101.5197276
+Selangor,Petaling,"Dewan Kenanga, Seksyen 28, Shah Alam Tengah",3.0053799,101.5603621
+Selangor,Petaling,"Dewan Meranti 2, Seksyen U20 Bandar Baru Sg. Buloh, Shah Alam Utara",3.21414925,101.56359645
+Selangor,Petaling,"Dewan MPSJ, Puchong Indah",3.0125816,101.6058011
+Selangor,Petaling,Dewan Sivik MBPJ,3.0970086,101.6453753
+Selangor,Petaling,Hospital Pengajar UPM,2.980436,101.7181633
+Selangor,Petaling,Hospital Shah Alam,21.9408267,13.8436509
+Selangor,Petaling,Ideal Convention Centre (IDCC),3.1082594,101.56252245
+Selangor,Petaling,Klinik Kesihatan Kelana Jaya,3.0990376,101.6006338
+Selangor,Petaling,Klinik Kesihatan Kota Damansara,3.17649585,101.5756644
+Selangor,Petaling,Klinik Kesihatan Puchong Bt 14,2.9940761,101.619718
+Selangor,Petaling,Klinik Kesihatan Seksyen 19,3.0500633,101.5331287
+Selangor,Petaling,Klinik Kesihatan Seksyen 7 Shah Alam,3.0724525,101.4909343
+Selangor,Petaling,Klinik Kesihatan Seri Kembangan,3.027736,101.7114922
+Selangor,Petaling,Klinik Kesihatan Taman Medan,3.079249,101.6344939
+Selangor,Petaling,Kompleks Sukan Negara Shah Alam Panasonic,3.0568,101.5471901
+Selangor,Petaling,Menara Sime Darby Plantation (PPV OKU),,
+Selangor,Petaling,Setia City Convention Centre (SCCC),3.109878,101.4629523
+Selangor,Petaling,"Space U8, Bukit Jelutong",3.1118583,101.552338
+Selangor,Petaling,Sunway Pyramid Convention Centre,3.0721932,101.6071378
+Selangor,Petaling,Universiti Teknologi MARA Shah Alam,3.10005475,101.50540385
+Selangor,Sabak Bernam,Dewan Sekinchan,3.56116665,101.0959952
+Selangor,Sabak Bernam,Dewan Seri Bernam Sg Besar,3.6768305,100.9913304
+Selangor,Sabak Bernam,"Dewan Tun Razak, Sabak Bernam",3.768562,100.9836785
+Selangor,Sabak Bernam,Hospital Tengku Ampuan Jemaah,3.7591076,100.9893055
+Selangor,Sabak Bernam,Klinik Kesihatan Sekinchan,3.5098268,101.1026535
+Selangor,Sabak Bernam,Klinik Kesihatan Simpang Lima,3.6263328,101.0516211
+Selangor,Sabak Bernam,Klinik Kesihatan Sungai Besar,3.6511134,101.0203075
+Selangor,Sepang,Dewan Serbaguna Bandar Baru Salak Tinggi,2.8097745,101.7384872
+Selangor,Sepang,Hospital Serdang,22.6563215,15.31413305
+Selangor,Sepang,Klinik Kesihatan Dengkil,2.859256,101.681787
+Selangor,Sepang,Klinik Kesihatan Salak,2.7895199,101.7491886
+Selangor,Sepang,Klinik Kesihatan Sepang,2.75192115,101.7159776
+Selangor,Sepang,Klinik Kesihatan Sungai Pelek,2.6446353,101.7185045
+Selangor,Sepang,Klinik Masya,2.78449,101.75103
+Selangor,Sepang,Main Terminal Building KLIA,2.7525943,101.7039067
+Selangor,Sepang,Movenpick Hotel & Convention Centre KLIA,2.7892788,101.6765803
+Selangor,Sepang,"Multimedia University (MMU), Cyberjaya, Sepang",2.9277715,101.6419004
+Selangor,Sepang,Orion Clinic,45.59802135,-127.2696389
+Selangor,Sepang,Poliklinik Medi Ihsan,2.8191638,101.68967
+Selangor,Ulu Langat,360 Club Eco Hill,2.9256596,101.839679
+Selangor,Ulu Langat,Bangi Avenue Convention Center [BACC],2.9006741,101.7912444
+Selangor,Ulu Langat,"Bangi Convention Centre (BCC), Seksyen 14 BBB",2.9255946,101.7613725
+Selangor,Ulu Langat,Bangi Golf Resort,2.957294,101.76602495
+Selangor,Ulu Langat,Dewan Orang Ramai Kampung Ampang Indah,3.16547355,101.77179625
+Selangor,Ulu Langat,Dewan Orang Ramai Taman Bukit Mewah Kajang,2.9802032,101.8035773
+Selangor,Ulu Langat,Hospital Ampang,3.1282107,101.7640303
+Selangor,Ulu Langat,Hospital Kajang,2.99331335,101.79597385
+Selangor,Ulu Langat,Klinik Kesihatan Bandar Seri Putra,2.8878947,101.7922127
+Selangor,Ulu Langat,Klinik Kesihatan Bandar Tun Hussein Onn,3.0423435,101.76191245
+Selangor,Ulu Langat,Klinik Kesihatan Bangi,2.91870075,101.77296065
+Selangor,Ulu Langat,Mewah Club Kajang,2.98821055,101.79632605
+Selangor,Ulu Langat,Universiti Kebangsaan Malaysia (UKM),2.930255,101.7774194
+Selangor,Ulu Selangor,Bukit Beruntung Golf Resort,3.4373376,101.56470595
+Selangor,Ulu Selangor,Dewan Komuniti Serendah,3.3646383,101.6031112
+Selangor,Ulu Selangor,Dewan Semai Bakti Felda Soeharto,3.6757129,101.393808
+Selangor,Ulu Selangor,Hospital Kuala Kubu Bharu,3.5642346,101.6530737
+Selangor,Ulu Selangor,Klinik Kesihatan Serendah,3.3623333,101.6027488
+Selangor,Ulu Selangor,Klinik Kesihatan Ulu Yam Bharu,3.434854,101.656462
+W.P. Kuala Lumpur,Kuala Lumpur,Axiata Arena Bukit Jalil,3.0538145,101.6934339
+W.P. Kuala Lumpur,Kuala Lumpur,CIDB Convention Centre,3.1251222,101.7171147
+W.P. Kuala Lumpur,Kuala Lumpur,Hospital Kuala Lumpur,3.14541025,101.70316355
+W.P. Kuala Lumpur,Kuala Lumpur,Institut Jantung Negara,3.1699957,101.7090145
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Convention Centre (KLCC),3.1532671,101.7130429
+W.P. Kuala Lumpur,Kuala Lumpur,Malaysia International Trade and Exhibition Centre (MITEC),3.1782359,101.6688772
+W.P. Kuala Lumpur,Kuala Lumpur,Malaysian Association For The Blind (MAB) Complex,3.1321407,101.6910403
+W.P. Kuala Lumpur,Kuala Lumpur,Masjid Wilayah,3.1720495,101.6704473
+W.P. Kuala Lumpur,Kuala Lumpur,National Stadium Bukit Jalil,3.0546349,101.69134
+W.P. Kuala Lumpur,Kuala Lumpur,Pusat Perubatan Universiti Kebangsaan Malaysia – Pandu Lalu,3.099267,101.7254018
+W.P. Kuala Lumpur,Kuala Lumpur,Pusat Perubatan Universiti Malaya (PPUM),3.1137086,101.6528322
+W.P. Kuala Lumpur,Kuala Lumpur,Texas Instruments Malaysia Sdn Bhd,3.1703205,101.7505223
+W.P. Kuala Lumpur,Kuala Lumpur,UCSI University,3.0800732,101.7335007
+W.P. Kuala Lumpur,Kuala Lumpur,Universiti Malaya (UM),3.1209046,101.6538414
+W.P. Kuala Lumpur,Kuala Lumpur,World Trade Centre KL (WTCKL),3.1687333,101.6915633
+W.P. Kuala Lumpur,W.P. Putrajaya,IOI City Mall Putrajaya,2.9697004,101.7131489
+W.P. Putrajaya,W.P. Putrajaya,Dewan Sri Seroja,2.9441402,101.7242602
+W.P. Putrajaya,W.P. Putrajaya,Hospital Putrajaya,2.9290529,101.6741956
+W.P. Putrajaya,W.P. Putrajaya,Institut Kanser Negara,2.9321929,101.6888522
+W.P. Putrajaya,W.P. Putrajaya,"International SOS, Putrajaya International Convention Centre (PICC)",2.8944444,101.6772222
+W.P. Labuan,W.P. Labuan,Dewan Kompleks Darul Kifayah MAIWP,5.288608,115.2647018
+W.P. Labuan,W.P. Labuan,"Dewan Mutiara, Kolej Matrikulasi Labuan",5.3584369,115.2248578
+W.P. Labuan,W.P. Labuan,Dewan Perumahan Taman Mutiara Blok L,5.2939272,115.2051555
+W.P. Labuan,W.P. Labuan,Dewan Serbaguna Perbadanan Labuan,5.31016,115.233237
+W.P. Labuan,W.P. Labuan,Dewan Seri Labuan (JKR Labuan),5.2878913,115.2499694
+W.P. Labuan,W.P. Labuan,Hospital Labuan,5.311145,115.2300178
+W.P. Labuan,W.P. Labuan,PPV Dewan Foo Chow,5.9548388,116.0966961
+W.P. Labuan,W.P. Labuan,UMS (KAL) - PPV Drive-thru,5.2787982,115.1736251
