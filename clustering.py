@@ -6,7 +6,7 @@ PATH_TO_DATA = "data/"
 COORD_COLS = ['latitude', 'longitude']
 
 _data_src = PATH_TO_DATA + "ppv_skp-geo-pop-data.csv"
-spk_df = pd.read_csv(_data_src)
+# spk_df = pd.read_csv(_data_src)
 
 def feature_to_radius(feature: float):
     # This function is not determined yet and is subject to change,
@@ -14,6 +14,7 @@ def feature_to_radius(feature: float):
     # has > 0 value.
     return max(np.log(feature), 1)
 
+# NOTE :- This function is unusable.
 def two_nearest_circle_point_centroid(
     x: np.ndarray, # Length 2
     y: np.ndarray, # Length 2
