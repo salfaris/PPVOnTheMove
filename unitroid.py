@@ -10,7 +10,37 @@ _data_src = PATH_TO_DATA + "ppv_skp-geo-pop-data.csv"
 
 def feature_to_radius(pop_density: float):
     """The function defining the map: feature -> radius."""
-    return max(np.log(pop_density), 0.01)
+    return np.log(pop_density)
+
+def generate_radius_for_row(pop_density: float):
+    np.random.seed(SEED)
+    radius_mean_bound = feature_to_radius(pop_density)
+    sigma = 1.5
+    sampled_radius = sigma*np.random.randn(1) + radius_mean_bound
+    return sampled_radius[0]
+
+def generate_radius_array(pop_density_array: pd.Series, sigma: float = 1.5):
+    np.random.seed(SEED)
+    radius_mean_bound = feature_to_radius(pop_density_array)  # Vectorize
+    sampled_radius = sigma*np.random.randn(len(pop_density_array)) + radius_mean_bound
+    return sampled_radius
+
+def n_centroid(df: pd.DataFrame, n: int):
+    """Generates n centroids based on n splits of a uniformly
+    shuffled DataFrame."""
+    shuffled = df.sample(frac=1, random_state=SEED)
+    splits = np.array_split(shuffled, n)
+    
+    centroids = []
+    for split in splits:
+        # Latitude, longitude values of the split.
+        split_coords = split[COORD_COLS].values
+        # NOTE :- Remind @salfaris, we need centroid to be computed 
+        # midpoint between radii not center!
+        centroid = split_coords.mean(axis=0) 
+        centroids.append(centroid)
+    
+    return np.array(centroids)
 
 # NOTE :- This function is unusable.
 def two_nearest_circle_point_centroid(
@@ -30,20 +60,3 @@ def two_nearest_circle_point_centroid(
     t /= 2.0 * center_center_distance
     centroid = x + t*y
     return centroid
-
-def n_centroid(df: pd.DataFrame, n: int):
-    """Generates n centroids based on n splits of a uniformly
-    shuffled DataFrame."""
-    shuffled = df.sample(frac=1, random_state=SEED)
-    splits = np.array_split(shuffled, n)
-    
-    centroids = []
-    for split in splits:
-        # Latitude, longitude values of the split.
-        split_coords = split[COORD_COLS].values
-        # NOTE :- Remind @salfaris, we need centroid to be computed 
-        # midpoint between radii not center!
-        centroid = split_coords.mean(axis=0) 
-        centroids.append(centroid)
-    
-    return np.array(centroids)
