@@ -22,7 +22,7 @@ def generate_radius_for_row(pop_density: float):
 def generate_radius_array(pop_density_array: pd.Series, sigma: float = 1.5):
     np.random.seed(SEED)
     radius_mean_bound = feature_to_radius(pop_density_array)  # Vectorize
-    sampled_radius = sigma*np.random.randn(len(pop_density_array)) + radius_mean_bound
+    sampled_radius = sigma*np.random.randn(len(pop_density_array)).reshape(-1, 1) + radius_mean_bound
     return sampled_radius
 
 def n_centroid(df: pd.DataFrame, n: int):
