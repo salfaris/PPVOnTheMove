@@ -8,11 +8,14 @@ from urllib.error import URLError
 
 SEED = 44
 COORD_COLS = ['latitude', 'longitude']
-POINT_RADIUS_SCALE_FACTOR = 550
+POINT_RADIUS_SCALE_FACTOR = 500
+NUMERIC_ORIGINAL_COLS = ['latitude', 'longitude', 'pop_growth', 'pop_density']
 DATA_COLS = ['state', 'district', 'ppv_name', 'latitude', 'longitude', 'pop_density', 'point_radius']
+ALL_COLS = ['state', 'district', 'ppv_name', 'latitude', 'longitude', 'pop_growth', 'pop_density', 'point_radius', 'point_radius_scaled']
 
 st.title("🚑 PPV On The Move")
 st.markdown("*PPV on the move, instant vroom vroom with Unitroid*")
+st.markdown("*Our [repo](https://github.com/salfaris/yme-hack-2021) for the hack.*")
 
 # @st.cache
 def fetch_load_data():
@@ -26,6 +29,9 @@ def handle_apply_algo_click():
     plot_data(states_df)
 
 def plot_data(data: pd.DataFrame):
+    data = data.dropna()
+    data[['latitude', 'longitude']] = data[['latitude', 'longitude']].apply(pd.to_numeric, errors='coerce')
+    data = data.dropna()
     init_view_lat = np.average(data['latitude'])
     init_view_lon = np.average(data['longitude'])
     init_zoom = 9
@@ -77,9 +83,8 @@ def generate_n_centroid_for_district(df: pd.DataFrame, state_name: str, district
     point_radius_scaled = point_radius * POINT_RADIUS_SCALE_FACTOR
     
     arr = np.hstack((state_name, district_name, ppv_name, centroids, pop_growth, pop_density, point_radius, point_radius_scaled))
-    cols = ['state', 'district', 'ppv_name', 'latitude', 'longitude', 'pop_growth', 'pop_density', 'point_radius', 'point_radius_scaled']
-    centroid_df = pd.DataFrame(arr, columns=cols)
-    centroid_df[cols] = centroid_df[cols].apply(pd.to_numeric, errors='ignore')
+    centroid_df = pd.DataFrame(arr, columns=ALL_COLS)
+    centroid_df[ALL_COLS] = centroid_df[ALL_COLS].apply(pd.to_numeric, errors='ignore')
     return centroid_df
 
 try:
@@ -94,12 +99,13 @@ try:
     else:
         states_df = df[df.state.isin(states)]
         states_df.reset_index(inplace=True, drop=True)
-        st.write(states_df.drop(columns=['pop_density', 'pop_growth']))
+        st.write(states_df.drop(columns=['point_radius', 'point_radius_scaled']))
         st.write("Before Unitroid")
         plot_data(states_df)
         
         if st.sidebar.button("Apply Unitroid"):
-            for i in range(51):
+            iter_nums = 51 if states != ['W.P. Kuala Lumpur'] else 1
+            for i in range(iter_nums):
                 status_text.text(f"{2*i}% Complete")
                 progress_bar.progress(2*i)
                 for state in states:

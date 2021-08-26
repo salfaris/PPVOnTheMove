@@ -35,6 +35,7 @@ def n_centroid(df: pd.DataFrame, n: int):
     for split in splits:
         # Latitude, longitude values of the split.
         split_coords = split[COORD_COLS].values
+        split_coords = split_coords.astype(np.float64)
         # NOTE :- Remind @salfaris, we need centroid to be computed 
         # midpoint between radii not center!
         centroid = split_coords.mean(axis=0) 
