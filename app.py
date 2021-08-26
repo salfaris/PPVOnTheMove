@@ -6,6 +6,7 @@ import unitroid
 
 SEED = 44
 COORD_COLS = ['latitude', 'longitude']
+POINT_RADIUS_SCALE_FACTOR = 550
 
 st.title("🚑 PPV On The Move")
 st.markdown("PPV on the move, on the roof?")
@@ -16,7 +17,7 @@ def fetch_load_data(url):
     return data
 
 def plot_data(data: pd.DataFrame):
-    data['point_radius_scaled'] = data['point_radius'] * scale_factor
+    data['point_radius_scaled'] = data['point_radius'] * POINT_RADIUS_SCALE_FACTOR
     init_view_lat = np.average(data['latitude'])
     init_view_lon = np.average(data['longitude'])
     init_zoom = 9
@@ -51,28 +52,41 @@ def plot_data(data: pd.DataFrame):
             ),
         ],
     ))
+    
+DATA_COLS = ['state', 'district', 'ppv_name', 'latitude', 'longitude', 'pop_density', 'point_radius']
+    
+def generate_n_centroid_for_district(df: pd.DataFrame, state_name: str, district_name: str, n: int):
+    district_df = df[df.district == district_name]
+    district_pop_density = district_df.pop_density.values[0]
+    district_pop_growth = district_df.pop_growth.values[0]
+    centroids = unitroid.n_centroid(district_df, n)
+    
+    state_name = np.full((len(centroids), 1), state_name)
+    district_name = np.full((len(centroids), 1), district_name)
+    ppv_name = np.full((len(centroids), 1), 'new_centroid')
+    
+    pop_growth = np.full((len(centroids), 1), district_pop_growth)
+    pop_density = np.full((len(centroids), 1), district_pop_density)
+    point_radius = unitroid.generate_radius_array(pop_density)
+    point_radius_scaled = point_radius * POINT_RADIUS_SCALE_FACTOR
+    
+    arr = np.hstack((state_name, district_name, ppv_name, centroids, pop_growth, pop_density, point_radius, point_radius_scaled))
+    cols = ['state', 'district', 'ppv_name', 'latitude', 'longitude', 'pop_growth', 'pop_density', 'point_radius', 'point_radius_scaled']
+    centroid_df = pd.DataFrame(arr, columns=cols)
+    centroid_df[cols] = centroid_df[cols].apply(pd.to_numeric, errors='ignore')
+    return centroid_df
 
 data_url = "https://raw.githubusercontent.com/salfaris/yme-hack-2021/main/data/ppv_skp-geo-pop-data.csv"
 df = fetch_load_data(data_url)
 
-scale_factor = 500
 df['point_radius'] = df.pop_density.apply(unitroid.generate_radius_for_row)
-# df.drop(['pop_growth'], axis=1, inplace=True, errors='ignore')
-# df.sort_values(by='pop_density', ascending=False, inplace=True)
 
 st.write(df.drop(columns=['pop_density', 'pop_growth']))
 
 plot_data(df)
 
-def generate_n_centroid_for_district(df: pd.DataFrame, district_name: str, n: int):
-    district_df = df[df.district == district_name]
-    district_pop_density = district_df.pop_density.values[0]
-    centroids = unitroid.n_centroid(district_df, n)
-    centroids_pop_density = np.full((len(centroids), 1), district_pop_density)
-    centroids_point_radius = unitroid.generate_radius_array(centroids_pop_density)
-    st.write(centroids_point_radius.shape)
-    st.write(centroids_point_radius)
-    # return np.hstack((centroids, centroids_pop_density, centroids_point_radius))
-
-res = generate_n_centroid_for_district(df, 'Gombak', 3)
+res = generate_n_centroid_for_district(df, 'Selangor', 'Gombak', 3)
+st.write(pd.concat([df, res]))
+# st.write(res.dtypes)
+st.write(df.head())
 st.write(res)
