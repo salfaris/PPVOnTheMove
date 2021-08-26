@@ -4,20 +4,28 @@ import pandas as pd
 import numpy as np
 import unitroid
 
+from urllib.error import URLError
+
 SEED = 44
 COORD_COLS = ['latitude', 'longitude']
 POINT_RADIUS_SCALE_FACTOR = 550
+DATA_COLS = ['state', 'district', 'ppv_name', 'latitude', 'longitude', 'pop_density', 'point_radius']
 
 st.title("🚑 PPV On The Move")
 st.markdown("PPV on the move, on the roof?")
 
 # @st.cache
-def fetch_load_data(url):
-    data = pd.read_csv(url)
-    return data
+def fetch_load_data():
+    url = "https://raw.githubusercontent.com/salfaris/yme-hack-2021/main/data/ppv_skp-geo-pop-data.csv"
+    df = pd.read_csv(url)
+    df['point_radius'] = df.pop_density.apply(unitroid.generate_radius_for_row)
+    df['point_radius_scaled'] = df['point_radius'] * POINT_RADIUS_SCALE_FACTOR
+    return df
+
+def handle_apply_algo_click():
+    plot_data(states_df)
 
 def plot_data(data: pd.DataFrame):
-    data['point_radius_scaled'] = data['point_radius'] * POINT_RADIUS_SCALE_FACTOR
     init_view_lat = np.average(data['latitude'])
     init_view_lon = np.average(data['longitude'])
     init_zoom = 9
@@ -53,8 +61,6 @@ def plot_data(data: pd.DataFrame):
         ],
     ))
     
-DATA_COLS = ['state', 'district', 'ppv_name', 'latitude', 'longitude', 'pop_density', 'point_radius']
-    
 def generate_n_centroid_for_district(df: pd.DataFrame, state_name: str, district_name: str, n: int):
     district_df = df[df.district == district_name]
     district_pop_density = district_df.pop_density.values[0]
@@ -76,17 +82,44 @@ def generate_n_centroid_for_district(df: pd.DataFrame, state_name: str, district
     centroid_df[cols] = centroid_df[cols].apply(pd.to_numeric, errors='ignore')
     return centroid_df
 
-data_url = "https://raw.githubusercontent.com/salfaris/yme-hack-2021/main/data/ppv_skp-geo-pop-data.csv"
-df = fetch_load_data(data_url)
+try:
+    df = fetch_load_data()
+    states = st.sidebar.multiselect(
+        "Choose states", list(df.state.unique()), ["Selangor"]
+    )
+    if not states:
+        st.error("Please select at least one state.")
+    else:
+        states_df = df[df.state.isin(states)]
+        states_df.reset_index(inplace=True, drop=True)
+        st.write(states_df.drop(columns=['pop_density', 'pop_growth']))
+        st.write("Before")
+        plot_data(states_df)
+        
+        if st.sidebar.button("Apply Unitroid"):
+            for state in states:
+                for district in states_df.district.unique():
+                    centroids = generate_n_centroid_for_district(
+                        states_df, state, district, 3)
+                    states_df = pd.concat([states_df, centroids])
+            states_df.reset_index(inplace=True, drop=True)
+            st.write("After")
+            plot_data(states_df)
+            
+            
+            
+        
+except URLError as e:
+    st.error(
+        """
+        **This demo requires internet access.**
 
-df['point_radius'] = df.pop_density.apply(unitroid.generate_radius_for_row)
+        Connection error: %s
+    """
+        % e.reason
+    )
 
-st.write(df.drop(columns=['pop_density', 'pop_growth']))
+# plot_data(df)
 
-plot_data(df)
-
-res = generate_n_centroid_for_district(df, 'Selangor', 'Gombak', 3)
-st.write(pd.concat([df, res]))
-# st.write(res.dtypes)
-st.write(df.head())
-st.write(res)
+# res = generate_n_centroid_for_district(df, 'Selangor', 'Gombak', 3)
+# data = pd.concat([df, res])
